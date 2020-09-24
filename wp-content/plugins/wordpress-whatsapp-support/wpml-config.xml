@@ -1,0 +1,23 @@
+<wpml-config>
+    <admin-texts>
+
+        <key name="sk_wws_setting">
+            <key name="text_about_support" />
+            <key name="text_welcome_msg" />
+            <key name="text_input_placeholder" />
+            <key name="text_number_placeholder" />
+            <key name="text_trigger_btn" />
+        </key>
+        
+        <key name="wws_product_query">
+            <key name="btn_label" />
+            <key name="support_person_title" />
+            <key name="support_pre_message" />
+        </key>
+	
+        <key name="wws_gdpr_settings">
+            <key name="gdpr_msg" />
+        </key>
+
+    </admin-texts>
+</wpml-config>

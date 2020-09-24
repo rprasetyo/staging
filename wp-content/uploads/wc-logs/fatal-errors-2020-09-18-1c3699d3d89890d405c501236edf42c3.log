@@ -1,0 +1,50 @@
+2020-09-18T00:44:45+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_query() in /home/u4060346/public_html/demo-app/napaparfum/wp-content/plugins/sitepress-multilingual-cms/inc/sitepress-schema.php:34
+Stack trace:
+#0 /home/u4060346/public_html/demo-app/napaparfum/wp-includes/class-wp-hook.php(287): icl_sitepress_activate(false)
+#1 /home/u4060346/public_html/demo-app/napaparfum/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 /home/u4060346/public_html/demo-app/napaparfum/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/u4060346/public_html/demo-app/napaparfum/wp-admin/includes/plugin.php(699): do_action('activate_sitepr...', false)
+#4 /home/u4060346/public_html/demo-app/napaparfum/wp-admin/plugins.php(58): activate_plugin('sitepress-multi...', 'http://trijayas...', false)
+#5 {main}
+  thrown di /home/u4060346/public_html/demo-app/napaparfum/wp-content/plugins/sitepress-multilingual-cms/inc/sitepress-schema.php pada baris 34
+
+2020-09-18T00:45:56+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_query() in /home/u4060346/public_html/demo-app/napaparfum/wp-content/plugins/sitepress-multilingual-cms/inc/sitepress-schema.php:34
+Stack trace:
+#0 /home/u4060346/public_html/demo-app/napaparfum/wp-includes/class-wp-hook.php(287): icl_sitepress_activate(false)
+#1 /home/u4060346/public_html/demo-app/napaparfum/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 /home/u4060346/public_html/demo-app/napaparfum/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/u4060346/public_html/demo-app/napaparfum/wp-admin/includes/plugin.php(699): do_action('activate_sitepr...', false)
+#4 /home/u4060346/public_html/demo-app/napaparfum/wp-admin/plugins.php(58): activate_plugin('sitepress-multi...', 'http://trijayas...', false)
+#5 {main}
+  thrown di /home/u4060346/public_html/demo-app/napaparfum/wp-content/plugins/sitepress-multilingual-cms/inc/sitepress-schema.php pada baris 34
+
+2020-09-18T00:46:12+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_query() in /home/u4060346/public_html/demo-app/napaparfum/wp-content/plugins/sitepress-multilingual-cms/inc/sitepress-schema.php:34
+Stack trace:
+#0 /home/u4060346/public_html/demo-app/napaparfum/wp-includes/class-wp-hook.php(287): icl_sitepress_activate(false)
+#1 /home/u4060346/public_html/demo-app/napaparfum/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 /home/u4060346/public_html/demo-app/napaparfum/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/u4060346/public_html/demo-app/napaparfum/wp-admin/includes/plugin.php(699): do_action('activate_sitepr...', false)
+#4 /home/u4060346/public_html/demo-app/napaparfum/wp-admin/plugins.php(58): activate_plugin('sitepress-multi...', 'http://trijayas...', false)
+#5 {main}
+  thrown di /home/u4060346/public_html/demo-app/napaparfum/wp-content/plugins/sitepress-multilingual-cms/inc/sitepress-schema.php pada baris 34
+
+2020-09-18T00:48:17+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_query() in /home/u4060346/public_html/demo-app/napaparfum/wp-content/plugins/sitepress-multilingual-cms-master/inc/sitepress-schema.php:34
+Stack trace:
+#0 /home/u4060346/public_html/demo-app/napaparfum/wp-includes/class-wp-hook.php(287): icl_sitepress_activate(false)
+#1 /home/u4060346/public_html/demo-app/napaparfum/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 /home/u4060346/public_html/demo-app/napaparfum/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/u4060346/public_html/demo-app/napaparfum/wp-admin/includes/plugin.php(699): do_action('activate_sitepr...', false)
+#4 /home/u4060346/public_html/demo-app/napaparfum/wp-admin/plugins.php(58): activate_plugin('sitepress-multi...', 'http://trijayas...', false)
+#5 {main}
+  thrown di /home/u4060346/public_html/demo-app/napaparfum/wp-content/plugins/sitepress-multilingual-cms-master/inc/sitepress-schema.php pada baris 34
+
+2020-09-18T00:48:50+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_query() in /home/u4060346/public_html/demo-app/napaparfum/wp-content/plugins/sitepress-multilingual-cms-master/inc/sitepress-schema.php:34
+Stack trace:
+#0 /home/u4060346/public_html/demo-app/napaparfum/wp-includes/class-wp-hook.php(287): icl_sitepress_activate(false)
+#1 /home/u4060346/public_html/demo-app/napaparfum/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 /home/u4060346/public_html/demo-app/napaparfum/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/u4060346/public_html/demo-app/napaparfum/wp-admin/includes/plugin.php(699): do_action('activate_sitepr...', false)
+#4 /home/u4060346/public_html/demo-app/napaparfum/wp-admin/plugins.php(58): activate_plugin('sitepress-multi...', 'http://trijayas...', false)
+#5 {main}
+  thrown di /home/u4060346/public_html/demo-app/napaparfum/wp-content/plugins/sitepress-multilingual-cms-master/inc/sitepress-schema.php pada baris 34
+

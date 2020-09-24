@@ -1,0 +1,1395 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WeCreativez WhatsApp Support\n"
+"POT-Creation-Date: 2019-08-10 16:41+0530\n"
+"PO-Revision-Date: 2019-08-10 16:51+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: id_ID\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wordpress-whatsapp-support.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/classes/admin/class-wws-admin-menu.php:29
+#: includes/classes/admin/class-wws-admin-menu.php:30
+#: includes/classes/admin/class-wws-admin-menu.php:50
+#: includes/classes/admin/class-wws-admin-menu.php:51
+msgid "WhatsApp Support"
+msgstr "WhatsApp Support"
+
+#: includes/classes/admin/class-wws-admin-menu.php:40
+#: includes/classes/admin/class-wws-admin-menu.php:41
+#: includes/classes/admin/class-wws-admin-menu.php:88
+#: includes/classes/admin/class-wws-admin-menu.php:89
+#: views/admin/admin-setting-page.php:67
+msgid "Plugin Support"
+msgstr "Dukungan Plugin"
+
+#: includes/classes/admin/class-wws-admin-menu.php:61
+#: includes/classes/admin/class-wws-admin-menu.php:62
+msgid "Analytics"
+msgstr "Analytics"
+
+#: includes/classes/admin/class-wws-admin-menu.php:70
+#: includes/classes/admin/class-wws-admin-menu.php:71
+msgid "FB & GA Analytics"
+msgstr "Analisis FB & GA"
+
+#: includes/classes/admin/class-wws-admin-menu.php:79
+#: includes/classes/admin/class-wws-admin-menu.php:80
+#: views/admin/admin-gdpr-setting-page.php:3
+msgid "GDPR Setting"
+msgstr "Pengaturan GDPR"
+
+#: includes/classes/admin/class-wws-admin-notifications.php:31
+msgid "Settings saved."
+msgstr "Pengaturan disimpan."
+
+#: includes/classes/admin/class-wws-admin-notifications.php:43
+#, php-format
+msgid ""
+"Settings saved. If you changed the layout then please go to <a href=\"%s"
+"\">Manage Support Persons</a> to add or modify the support persons."
+msgstr ""
+"Pengaturan disimpan. Jika Anda mengubah tata letak maka silakan buka <a href="
+"\"%s\"> Kelola Orang Dukungan </a> untuk menambah atau memodifikasi orang-"
+"orang yang mendukung."
+
+#: includes/classes/admin/class-wws-admin-notifications.php:55
+msgid "Report generated. Please click on Download Report button."
+msgstr "Laporan dihasilkan. Silakan klik tombol Unduh Laporan."
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:27
+msgid "WhatsApp Support Button"
+msgstr "Tombol Dukungan WhatsApp"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:30
+msgid "Content"
+msgstr "Konten"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:37
+#: views/admin/admin-button-generator.php:17
+#: views/admin/admin-qr-generator.php:6
+msgid "Support Number"
+msgstr "Nomor Dukungan"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:39
+msgid "911234567890"
+msgstr "911234567890"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:40
+msgid ""
+"Enter mobile phone number with the international country code, without '+' "
+"character."
+msgstr ""
+"Masukkan nomor ponsel dengan kode negara internasional, tanpa karakter '+'."
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:46
+#: views/admin/admin-button-generator.php:28
+msgid "Button Text"
+msgstr "Teks Tombol"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:48
+msgid "Contact Us"
+msgstr "Hubungi kami"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:54
+#: views/admin/admin-product-query.php:37
+msgid "Button Color"
+msgstr "Warna Tombol"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:62
+#: views/admin/admin-button-generator.php:42
+#: views/admin/admin-product-query.php:47
+msgid "Button Text Color"
+msgstr "Warna Teks Tombol"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:68
+#: views/admin/admin-button-generator.php:53
+msgid "Button Bold Text"
+msgstr "Tombol Teks Tebal"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:71
+#: includes/classes/admin/class-wws-admin-visual-composer.php:105
+#: includes/classes/admin/class-wws-admin-visual-composer.php:117
+#: includes/classes/admin/class-wws-admin-visual-composer.php:127
+#: views/admin/admin-basic-settings.php:60
+#: views/admin/admin-basic-settings.php:83
+#: views/admin/admin-basic-settings.php:106
+#: views/admin/admin-button-generator.php:55
+#: views/admin/admin-button-generator.php:78
+#: views/admin/admin-button-generator.php:100
+#: views/admin/admin-button-generator.php:109
+msgid "No"
+msgstr "Tidak"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:72
+#: includes/classes/admin/class-wws-admin-visual-composer.php:106
+#: includes/classes/admin/class-wws-admin-visual-composer.php:116
+#: includes/classes/admin/class-wws-admin-visual-composer.php:126
+#: views/admin/admin-basic-settings.php:59
+#: views/admin/admin-basic-settings.php:82
+#: views/admin/admin-basic-settings.php:105
+#: views/admin/admin-button-generator.php:56
+#: views/admin/admin-button-generator.php:79
+#: views/admin/admin-button-generator.php:99
+#: views/admin/admin-button-generator.php:108
+msgid "Yes"
+msgstr "Iya nih"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:78
+#: views/admin/admin-button-generator.php:62
+msgid "Button Font Style"
+msgstr "Tombol Font Style"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:81
+#: views/admin/admin-button-generator.php:64
+msgid "Theme Default"
+msgstr "Default Tema"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:82
+msgid "Lobster"
+msgstr "Lobster"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:83
+msgid "Satisfy"
+msgstr "Satisfy"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:84
+msgid "Bree Serif"
+msgstr "Bree Serif"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:85
+msgid "Oswald"
+msgstr "Oswald"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:86
+msgid "Ubuntu"
+msgstr "Ubuntu"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:87
+msgid "Dancing Script"
+msgstr "Dancing Script"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:94
+#: views/admin/admin-button-generator.php:87
+#: views/admin/admin-link-generator.php:28
+msgid "Pre Populate Message"
+msgstr "Pre Mengisi Pesan"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:96
+msgid "Hello..."
+msgstr "Halo..."
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:97
+#: views/admin/admin-button-generator.php:89
+msgid "This is what you will receive when user sent message first time."
+msgstr ""
+"Ini adalah apa yang akan Anda terima ketika pengguna mengirim pesan pertama "
+"kali."
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:102
+#: views/admin/admin-button-generator.php:76
+msgid "Full Width Button"
+msgstr "Tombol Lebar Penuh"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:108
+msgid "This will expand button to full width."
+msgstr "Ini akan memperluas tombol ke lebar penuh."
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:113
+#: views/admin/admin-basic-settings.php:77
+msgid "Display On Mobile"
+msgstr "Tampilan Di Seluler"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:123
+#: views/admin/admin-basic-settings.php:54
+#: views/admin/admin-button-generator.php:106
+msgid "Display On Desktop"
+msgstr "Tampilan Di Desktop"
+
+#: includes/classes/admin/class-wws-plugin-activation.php:35
+msgid "Activate Plugin"
+msgstr "Aktifkan Plugin"
+
+#: includes/classes/admin/class-wws-plugin-activation.php:36
+msgid ""
+"Please enter your purchase code. Purchasing plugin license also grants "
+"access to premium support. <br>Use one license per domain please!"
+msgstr ""
+"Silakan masukkan kode pembelian Anda. Membeli lisensi plugin juga memberikan "
+"akses ke dukungan premium. <br> Tolong gunakan satu lisensi per domain!"
+
+#: includes/classes/admin/class-wws-plugin-activation.php:40
+msgid "Enter Envato Purchase Code"
+msgstr "Masukkan Kode Pembelian Envato"
+
+#: includes/classes/admin/class-wws-plugin-activation.php:43
+msgid "Activate"
+msgstr "Mengaktifkan"
+
+#: includes/classes/admin/class-wws-plugin-activation.php:45
+msgid "Deactivate"
+msgstr "Menonaktifkan"
+
+#: includes/classes/admin/class-wws-plugin-activation.php:55
+#, php-format
+msgid "<a href=\"%s\" target=\"_blank\">Where is my purchase code?</a>"
+msgstr "<a href=\"%s\" target=\"_blank\"> Di mana kode pembelian saya? </a>"
+
+#: includes/classes/admin/class-wws-plugin-activation.php:57
+#, php-format
+msgid "<a href=\"%s\">Need our help?</a>"
+msgstr "<a href=\"%s\"> Perlu bantuan kami? </a>"
+
+#: includes/classes/admin/class-wws-plugin-activation.php:102
+msgid "Invalid Purchase Code"
+msgstr "Kode Pembelian Tidak Valid"
+
+#: includes/classes/admin/class-wws-plugin-activation.php:109
+msgid "Your key is blocked. Please contact us."
+msgstr "Kunci Anda diblokir. Silahkan hubungi kami."
+
+#: includes/classes/admin/class-wws-plugin-activation.php:115
+#, php-format
+msgid "Error Code: %s. Please contact us."
+msgstr "Kode Kesalahan: %s. Silahkan hubungi kami."
+
+#: includes/classes/admin/class-wws-plugin-activation.php:124
+msgid "Server error. Please contact us."
+msgstr "Server error. Silahkan hubungi kami."
+
+#: plugin-core/classes/wc-field.php:237
+msgid "Upload Image"
+msgstr "Unggah Gambar"
+
+#: views/admin/admin-analytics-page.php:5
+msgid "WeCreativez WhatsApp Support - Analytics"
+msgstr "Dukungan WeCreativez WhatsApp - Analytics"
+
+#: views/admin/admin-analytics-page.php:11
+msgid "Total Clicks Analytics"
+msgstr "Analisis Klik Total"
+
+#: views/admin/admin-analytics-page.php:17
+msgid "Total Clicks"
+msgstr "Klik Total"
+
+#: views/admin/admin-analytics-page.php:23
+msgid "Total Clicks By Desktop/ Laptop"
+msgstr "Klik Total Menurut Desktop / Laptop"
+
+#: views/admin/admin-analytics-page.php:29
+msgid "Total Clicks By Mobile"
+msgstr "Klik Total Dengan Seluler"
+
+#: views/admin/admin-analytics-page.php:36
+msgid "Complete Analytics"
+msgstr "Analisis Lengkap"
+
+#: views/admin/admin-analytics-page.php:42
+#: views/admin/admin-analytics-page.php:82
+msgid "Visitors IP"
+msgstr "IP Pengunjung"
+
+#: views/admin/admin-analytics-page.php:43
+#: views/admin/admin-analytics-page.php:83
+msgid "Number"
+msgstr "Jumlah"
+
+#: views/admin/admin-analytics-page.php:44
+#: views/admin/admin-analytics-page.php:84
+msgid "Message"
+msgstr "Pesan"
+
+#: views/admin/admin-analytics-page.php:45
+#: views/admin/admin-analytics-page.php:85
+msgid "Referral"
+msgstr "Referral"
+
+#: views/admin/admin-analytics-page.php:46
+#: views/admin/admin-analytics-page.php:86
+msgid "Device Type"
+msgstr "Tipe perangkat"
+
+#: views/admin/admin-analytics-page.php:47
+#: views/admin/admin-analytics-page.php:87
+msgid "OS"
+msgstr "OS"
+
+#: views/admin/admin-analytics-page.php:48
+#: views/admin/admin-analytics-page.php:88
+msgid "Browser"
+msgstr "Browser"
+
+#: views/admin/admin-analytics-page.php:49
+#: views/admin/admin-analytics-page.php:89
+msgid "Date"
+msgstr "Tanggal"
+
+#: views/admin/admin-analytics-page.php:50
+#: views/admin/admin-analytics-page.php:90
+msgid "Action"
+msgstr "Tindakan"
+
+#: views/admin/admin-analytics-page.php:99
+msgid "Are you sure?"
+msgstr "Apakah kamu yakin?"
+
+#: views/admin/admin-analytics-page.php:100
+msgid "Delete Complete Analytics"
+msgstr "Hapus Analisis Lengkap"
+
+#: views/admin/admin-analytics-page.php:109
+msgid "<strong>N/A</strong> means not applicable for the selected layout."
+msgstr ""
+"<strong> N/A </strong> berarti tidak berlaku untuk tata letak yang dipilih."
+
+#: views/admin/admin-appearance.php:10
+msgid "Select Layout"
+msgstr "Pilih Layout"
+
+#: views/admin/admin-appearance.php:11
+msgid "Select your layout."
+msgstr "Pilih tata letak Anda."
+
+#: views/admin/admin-appearance.php:69
+msgid "Layout Background Color"
+msgstr "Warna Latar Letak Latar"
+
+#: views/admin/admin-appearance.php:72
+msgid "Set popup layout background color."
+msgstr "Setel warna latar belakang tata letak popup."
+
+#: views/admin/admin-appearance.php:79
+msgid "Layout Text Color"
+msgstr "Warna Teks Tata Letak"
+
+#: views/admin/admin-appearance.php:82
+msgid "Set popup layout text color."
+msgstr "Setel warna teks tata letak popup."
+
+#: views/admin/admin-appearance.php:89
+msgid "Enable Layout Gradient"
+msgstr "Aktifkan Gradien Tata Letak"
+
+#: views/admin/admin-appearance.php:92 views/admin/admin-appearance.php:129
+#: views/admin/admin-basic-settings.php:121
+#: views/admin/admin-developer-settingspage.php:17
+#: views/admin/admin-developer-settingspage.php:28
+#: views/admin/admin-fb-ga-analytics-page.php:25
+#: views/admin/admin-fb-ga-analytics-page.php:72
+#: views/admin/admin-gdpr-setting-page.php:23
+#: views/admin/admin-product-query.php:15
+msgid "Enable/ Disable"
+msgstr "Aktifkan / Nonaktifkan"
+
+#: views/admin/admin-appearance.php:93
+msgid "Enable/ Disable popup background gradient."
+msgstr "Aktifkan / Nonaktifkan gradien latar belakang popup."
+
+#: views/admin/admin-appearance.php:105
+msgid "WhatsApp Support Trigger Button"
+msgstr "Tombol Pemicu Dukungan WhatsApp"
+
+#: views/admin/admin-appearance.php:116
+msgid "Trigger Button Text"
+msgstr "Teks Tombol Pemicu"
+
+#: views/admin/admin-appearance.php:119
+msgid "If you leave it blank than, trigger button shown as only icon."
+msgstr ""
+"Jika Anda membiarkannya kosong, tombol pemicu ditampilkan hanya sebagai ikon."
+
+#: views/admin/admin-appearance.php:126
+msgid "Show Only Icon on Mobile"
+msgstr "Tampilkan Hanya Ikon di Seluler"
+
+#: views/admin/admin-appearance.php:130
+msgid ""
+"Enable this option if you what to display an icon instead of text button on "
+"mobile."
+msgstr ""
+"Aktifkan opsi ini jika Anda ingin menampilkan ikon alih-alih tombol teks di "
+"ponsel."
+
+#: views/admin/admin-appearance.php:142
+msgid "WhatsApp Support Text Settings"
+msgstr "Pengaturan Teks Dukungan WhatsApp"
+
+#: views/admin/admin-appearance.php:153 views/admin/admin-appearance.php:156
+msgid "About Support."
+msgstr "Tentang Dukungan."
+
+#: views/admin/admin-appearance.php:163
+msgid "Welcome Messages"
+msgstr "Pesan Selamat Datang"
+
+#: views/admin/admin-appearance.php:166
+msgid "Welcome message from Support. Sometime this can be use as pre message."
+msgstr ""
+"Pesan sambutan dari Dukungan. Terkadang ini bisa digunakan sebagai pesan "
+"awal."
+
+#: views/admin/admin-appearance.php:173
+msgid "Input Placeholder Text"
+msgstr "Masukkan Teks Placeholder"
+
+#: views/admin/admin-appearance.php:176
+msgid "Input placeholder."
+msgstr "Masukan placeholder."
+
+#: views/admin/admin-appearance.php:183
+msgid "Number Placeholder Text"
+msgstr "Teks Placeholder Angka"
+
+#: views/admin/admin-appearance.php:186
+msgid "Enter the placeholder text for asking WhatsApp number from visitors."
+msgstr ""
+"Masukkan teks placeholder untuk meminta nomor WhatsApp dari pengunjung."
+
+#: views/admin/admin-appearance.php:193
+msgid "Predefined Text"
+msgstr "Teks yang telah ditentukan sebelumnya"
+
+#: views/admin/admin-appearance.php:196
+#: views/admin/multiperson-support/admin-add-multiperson-support.php:52
+#: views/admin/multiperson-support/admin-edit-multiperson-support.php:59
+#, php-format
+msgid ""
+"%s to display current page title in chat.<br>%s to display current page URL "
+"in chat.<br>%s to break the line into a new line."
+msgstr ""
+"%s untuk menampilkan judul halaman saat ini dalam obrolan. <br>%s untuk "
+"menampilkan URL halaman saat ini dalam obrolan. <br>%s untuk memecah baris "
+"menjadi baris baru."
+
+#: views/admin/admin-appearance.php:197
+msgid ""
+"This will automatically append the following options along with user text."
+msgstr ""
+"Ini secara otomatis akan menambahkan opsi berikut bersama dengan teks "
+"pengguna."
+
+#: views/admin/admin-appearance.php:207
+#: views/admin/admin-basic-settings.php:263
+#: views/admin/admin-developer-settingspage.php:39
+#: views/admin/admin-fb-ga-analytics-page.php:113
+#: views/admin/admin-gdpr-setting-page.php:61
+#: views/admin/admin-manage-support-persons.php:123
+#: views/admin/admin-product-query.php:170
+#: views/admin/multiperson-support/admin-add-multiperson-support.php:121
+#: views/admin/multiperson-support/admin-edit-multiperson-support.php:128
+msgid "Save Changes"
+msgstr "Simpan perubahan"
+
+#: views/admin/admin-basic-settings.php:12
+msgid "X-axis Offset"
+msgstr "Offset sumbu-X"
+
+#: views/admin/admin-basic-settings.php:19
+#: views/admin/admin-basic-settings.php:34
+msgid "In px ( pixels ) only. Default 12px."
+msgstr "Hanya dalam px (piksel). 12px default."
+
+#: views/admin/admin-basic-settings.php:20
+msgid "Enter the value of x-axis ( horizontal ) widget spacing."
+msgstr "Masukkan nilai jarak sumbu x (horizontal) widget."
+
+#: views/admin/admin-basic-settings.php:27
+msgid "Y-axis Offset"
+msgstr "Sumbu Y-offset"
+
+#: views/admin/admin-basic-settings.php:35
+msgid "Enter the value of y-axis ( vertical ) widget spacing."
+msgstr "Masukkan nilai jarak sumbu y (vertikal) widget."
+
+#: views/admin/admin-basic-settings.php:55
+msgid "Display on desktop/laptop"
+msgstr "Tampilan di desktop / laptop"
+
+#: views/admin/admin-basic-settings.php:63
+#: views/admin/admin-basic-settings.php:86
+msgid "Top Left"
+msgstr "Kiri Atas"
+
+#: views/admin/admin-basic-settings.php:64
+#: views/admin/admin-basic-settings.php:87
+msgid "Top Center"
+msgstr "Pusat Teratas"
+
+#: views/admin/admin-basic-settings.php:65
+#: views/admin/admin-basic-settings.php:88
+msgid "Top Right"
+msgstr "Kanan atas"
+
+#: views/admin/admin-basic-settings.php:66
+#: views/admin/admin-basic-settings.php:89
+msgid "Bottom Left"
+msgstr "Kiri bawah"
+
+#: views/admin/admin-basic-settings.php:67
+#: views/admin/admin-basic-settings.php:90
+msgid "Bottom Center"
+msgstr "Tengah bawah"
+
+#: views/admin/admin-basic-settings.php:68
+#: views/admin/admin-basic-settings.php:91
+msgid "Bottom Right"
+msgstr "Kanan bawah"
+
+#: views/admin/admin-basic-settings.php:78
+msgid "Display on mobile devices"
+msgstr "Tampilan di perangkat seluler"
+
+#: views/admin/admin-basic-settings.php:100
+msgid "Auto Popup"
+msgstr "Auto Popup"
+
+#: views/admin/admin-basic-settings.php:101
+msgid "Enter the popup auto display time in seconds"
+msgstr "Masukkan waktu tampilan otomatis popup dalam hitungan detik"
+
+#: views/admin/admin-basic-settings.php:118
+msgid "Enable RTL"
+msgstr "Aktifkan RTL"
+
+#: views/admin/admin-basic-settings.php:122
+msgid ""
+"You can enable RTL ( Right to Left ) if your website has language like "
+"Arabic, Persian and Hebrew."
+msgstr ""
+"Anda dapat mengaktifkan RTL (Kanan ke Kiri) jika situs web Anda memiliki "
+"bahasa seperti Arab, Persia dan Ibrani."
+
+#: views/admin/admin-basic-settings.php:129
+msgid "Scroll Length"
+msgstr "Panjang Gulir"
+
+#: views/admin/admin-basic-settings.php:136
+msgid "Leave blank for display every time."
+msgstr "Biarkan kosong untuk ditampilkan setiap waktu."
+
+#: views/admin/admin-basic-settings.php:137
+msgid "Display button when scroll length matched with above value."
+msgstr "Tombol tampilan ketika panjang gulir cocok dengan nilai di atas."
+
+#: views/admin/admin-basic-settings.php:146
+msgid "Filter By Page"
+msgstr "Filter Menurut Halaman"
+
+#: views/admin/admin-basic-settings.php:151
+msgid "Everwhere"
+msgstr "Dimana mana"
+
+#: views/admin/admin-basic-settings.php:156
+msgid "Front Page"
+msgstr "Halaman Depan"
+
+#: views/admin/admin-basic-settings.php:159
+msgid "Include popup on Pages"
+msgstr "Sertakan munculan di Halaman"
+
+#: views/admin/admin-basic-settings.php:167
+msgid "Select pages, where you want to add WhatsApp Support."
+msgstr "Pilih halaman, di mana Anda ingin menambahkan Dukungan WhatsApp."
+
+#: views/admin/admin-basic-settings.php:168
+msgid "Exclude popup on Pages"
+msgstr "Kecualikan munculan di Halaman"
+
+#: views/admin/admin-basic-settings.php:176
+msgid "Select pages, where you not want to add WhatsApp Support."
+msgstr "Pilih halaman, di mana Anda tidak ingin menambahkan Dukungan WhatsApp."
+
+#: views/admin/admin-basic-settings.php:185
+#: views/admin/multiperson-support/admin-add-multiperson-support.php:63
+#: views/admin/multiperson-support/admin-edit-multiperson-support.php:70
+msgid "Schedule"
+msgstr "Susunan acara"
+
+#: views/admin/admin-basic-settings.php:191
+#: views/admin/multiperson-support/admin-add-multiperson-support.php:102
+#: views/admin/multiperson-support/admin-edit-multiperson-support.php:109
+msgid "Monday"
+msgstr "Senin"
+
+#: views/admin/admin-basic-settings.php:197
+#: views/admin/multiperson-support/admin-add-multiperson-support.php:103
+#: views/admin/multiperson-support/admin-edit-multiperson-support.php:110
+msgid "Tuesday"
+msgstr "Selasa"
+
+#: views/admin/admin-basic-settings.php:203
+#: views/admin/multiperson-support/admin-add-multiperson-support.php:104
+#: views/admin/multiperson-support/admin-edit-multiperson-support.php:111
+msgid "Wednesday"
+msgstr "Rabu"
+
+#: views/admin/admin-basic-settings.php:209
+#: views/admin/multiperson-support/admin-add-multiperson-support.php:105
+#: views/admin/multiperson-support/admin-edit-multiperson-support.php:112
+msgid "Thursday"
+msgstr "Kamis"
+
+#: views/admin/admin-basic-settings.php:215
+#: views/admin/multiperson-support/admin-add-multiperson-support.php:106
+#: views/admin/multiperson-support/admin-edit-multiperson-support.php:113
+msgid "Friday"
+msgstr "Jumat"
+
+#: views/admin/admin-basic-settings.php:221
+#: views/admin/multiperson-support/admin-add-multiperson-support.php:107
+#: views/admin/multiperson-support/admin-edit-multiperson-support.php:114
+msgid "Saturday"
+msgstr "Sabtu"
+
+#: views/admin/admin-basic-settings.php:227
+#: views/admin/multiperson-support/admin-add-multiperson-support.php:108
+#: views/admin/multiperson-support/admin-edit-multiperson-support.php:115
+msgid "Sunday"
+msgstr "Minggu"
+
+#: views/admin/admin-basic-settings.php:233
+msgid "Schedule by days to show WhatsApp Support Popup. Time format HH:MM:SS"
+msgstr ""
+"Jadwalkan berdasarkan hari untuk menampilkan Popup Dukungan WhatsApp. Format "
+"waktu HH:MM:SS"
+
+#: views/admin/admin-basic-settings.php:236
+#, php-format
+msgid "Your selected time zone is %s"
+msgstr "Zona waktu yang Anda pilih adalah %s"
+
+#: views/admin/admin-basic-settings.php:247
+msgid "Custom   CSS"
+msgstr "CSS khusus"
+
+#: views/admin/admin-basic-settings.php:248
+msgid "Add your custom CSS here"
+msgstr "Tambahkan CSS kustom Anda di sini"
+
+#: views/admin/admin-basic-settings.php:261
+msgid "Developer settings"
+msgstr "Pengaturan pengembang"
+
+#: views/admin/admin-button-generator.php:9
+msgid "Button Type"
+msgstr "Jenis Tombol"
+
+#: views/admin/admin-button-generator.php:11
+msgid "Support Button"
+msgstr "Tombol Dukungan"
+
+#: views/admin/admin-button-generator.php:12
+msgid "Group Invitation Button"
+msgstr "Tombol Undangan Grup"
+
+#: views/admin/admin-button-generator.php:19
+#: views/admin/admin-link-generator.php:19 views/admin/admin-qr-generator.php:8
+msgid ""
+"Enter mobile phone number with the international country code, without \"+\" "
+"character"
+msgstr ""
+"Masukkan nomor ponsel dengan kode negara internasional, tanpa karakter \"+\""
+
+#: views/admin/admin-button-generator.php:23
+#: views/admin/admin-link-generator.php:23
+msgid "Group Chat ID"
+msgstr "ID Obrolan Kelompok"
+
+#: views/admin/admin-button-generator.php:36
+msgid "Button Background Color"
+msgstr "Warna Latar Tombol"
+
+#: views/admin/admin-button-generator.php:97
+msgid "Display On Mobile  "
+msgstr "Tampilan Di Seluler "
+
+#: views/admin/admin-button-generator.php:122
+#: views/admin/admin-qr-generator.php:27
+msgid "Visual Representation"
+msgstr "Representasi Visual"
+
+#: views/admin/admin-button-generator.php:128
+#: views/admin/admin-qr-generator.php:33
+msgid "Generated Shortcode"
+msgstr "Kode pendek yang dibuat"
+
+#: views/admin/admin-button-generator.php:130
+#: views/admin/admin-qr-generator.php:35
+msgid "Copy shortcode and paste wherever you want. Have fun! :)"
+msgstr ""
+"Salin shortcode dan tempel ke mana pun Anda mau. Selamat bersenang-senang! :)"
+
+#: views/admin/admin-button-generator.php:134
+msgid "Generated HTML"
+msgstr "HTML yang dihasilkan"
+
+#: views/admin/admin-button-generator.php:136
+msgid "Copy HTML and paste wherever you want. Have fun! :)"
+msgstr ""
+"Salin HTML dan tempel ke mana pun Anda mau. Selamat bersenang-senang! :)"
+
+#: views/admin/admin-button-generator.php:139
+#: views/admin/admin-link-generator.php:44
+#: views/admin/admin-plugin-support.php:40
+#: views/admin/admin-qr-generator.php:38
+msgid "Generate Now"
+msgstr "Hasilkan Sekarang"
+
+#: views/admin/admin-developer-settingspage.php:3
+msgid "Developer Settings"
+msgstr "Pengaturan Pengembang"
+
+#: views/admin/admin-developer-settingspage.php:14
+msgid "Developer"
+msgstr "Pengembang"
+
+#: views/admin/admin-developer-settingspage.php:18
+msgid "Please do not turn on without our recommendation."
+msgstr "Tolong jangan nyalakan tanpa rekomendasi kami."
+
+#: views/admin/admin-developer-settingspage.php:25
+msgid "Delete Plugin Setting"
+msgstr "Hapus Pengaturan Plugin"
+
+#: views/admin/admin-developer-settingspage.php:29
+msgid ""
+"If you want to delete plugin settings stored in database then enable this "
+"option and then click on the save changes button. Now delete the plugin from "
+"your plugins page."
+msgstr ""
+"Jika Anda ingin menghapus pengaturan plugin yang tersimpan dalam database, "
+"aktifkan opsi ini dan kemudian klik tombol simpan perubahan. Sekarang hapus "
+"plugin dari halaman plugin Anda."
+
+#: views/admin/admin-fb-ga-analytics-page.php:3
+msgid "Facebook and Google Analytics"
+msgstr "Facebook dan Google Analytics"
+
+#: views/admin/admin-fb-ga-analytics-page.php:11
+msgid "Facebook Pixel Analytics"
+msgstr "Analisis Pixel Facebook"
+
+#: views/admin/admin-fb-ga-analytics-page.php:22
+msgid "Facebook Click Tracking"
+msgstr "Pelacakan Klik Facebook"
+
+#: views/admin/admin-fb-ga-analytics-page.php:26
+msgid "You can enable or disable facebook pixel click tracking."
+msgstr ""
+"Anda dapat mengaktifkan atau menonaktifkan pelacakan klik piksel facebook."
+
+#: views/admin/admin-fb-ga-analytics-page.php:33
+msgid "FB Event"
+msgstr "Acara FB"
+
+#: views/admin/admin-fb-ga-analytics-page.php:36
+msgid "Enter the name of custom event to track on Facebook pixel."
+msgstr "Masukkan nama acara khusus untuk dilacak di Facebook pixel."
+
+#: views/admin/admin-fb-ga-analytics-page.php:43
+msgid "FB Event Label"
+msgstr "Label Acara FB"
+
+#: views/admin/admin-fb-ga-analytics-page.php:46
+msgid "Enter the label of custom event to track on Facebook pixel."
+msgstr "Masukkan label acara khusus untuk dilacak di Facebook pixel."
+
+#: views/admin/admin-fb-ga-analytics-page.php:58
+msgid "Google Click Analytics"
+msgstr "Analisis Klik TotalGoogle Click Analytics"
+
+#: views/admin/admin-fb-ga-analytics-page.php:69
+msgid "Google Event Tracking"
+msgstr "Google Pelacakan Peristiwa"
+
+#: views/admin/admin-fb-ga-analytics-page.php:73
+msgid "You can enable or disable google event click tracking."
+msgstr ""
+"Anda dapat mengaktifkan atau menonaktifkan pelacakan klik acara Google."
+
+#: views/admin/admin-fb-ga-analytics-page.php:80
+msgid "GA Event"
+msgstr "Acara GA"
+
+#: views/admin/admin-fb-ga-analytics-page.php:83
+msgid "Enter the name of custom the event to track on Google Analytics."
+msgstr "Masukkan nama kustom acara untuk dilacak di Google Analytics."
+
+#: views/admin/admin-fb-ga-analytics-page.php:90
+msgid "GA Event Category"
+msgstr "Kategori Acara GA"
+
+#: views/admin/admin-fb-ga-analytics-page.php:93
+msgid "Enter the name of the event category."
+msgstr "Masukkan nama kategori acara."
+
+#: views/admin/admin-fb-ga-analytics-page.php:100
+msgid "GA Event Label"
+msgstr "Label Acara GA"
+
+#: views/admin/admin-fb-ga-analytics-page.php:103
+msgid "Enter the label of the event."
+msgstr "Masukkan label acara."
+
+#: views/admin/admin-gdpr-setting-page.php:20
+msgid "GDPR"
+msgstr "GDPR"
+
+#: views/admin/admin-gdpr-setting-page.php:24
+msgid "Enable/ Disable GDPR compliant."
+msgstr "Aktifkan / Nonaktifkan sesuai dengan GDPR."
+
+#: views/admin/admin-gdpr-setting-page.php:31
+msgid "GDPR Message"
+msgstr "Pesan GDPR"
+
+#: views/admin/admin-gdpr-setting-page.php:34
+#, php-format
+msgid "Use shortcode %s to add privacy page link."
+msgstr "Gunakan shortcode %s untuk menambahkan tautan halaman privasi."
+
+#: views/admin/admin-gdpr-setting-page.php:42
+msgid "Privacy page"
+msgstr "Halaman privasi"
+
+#: views/admin/admin-gdpr-setting-page.php:43
+msgid "Select your privacy page."
+msgstr "Pilih halaman privasi Anda."
+
+#: views/admin/admin-link-generator.php:9
+msgid "Link Type"
+msgstr "Jenis Tautan"
+
+#: views/admin/admin-link-generator.php:11
+msgid "Chat Link"
+msgstr "Tautan Obrolan"
+
+#: views/admin/admin-link-generator.php:12
+msgid "Group Invitation Link"
+msgstr "Tautan Undangan Grup"
+
+#: views/admin/admin-link-generator.php:17
+msgid "WhatsApp Number"
+msgstr "WhatsApp Number"
+
+#: views/admin/admin-link-generator.php:30
+msgid "Enter a message that you will receive when someone clicks on the link."
+msgstr "Masukkan pesan yang akan Anda terima ketika seseorang mengklik tautan."
+
+#: views/admin/admin-link-generator.php:39
+msgid "Generated Link"
+msgstr "Tautan yang Dihasilkan"
+
+#: views/admin/admin-link-generator.php:41
+msgid "Copy link and share. Have fun! :)"
+msgstr "Salin tautan dan bagikan. Selamat bersenang-senang! :)"
+
+#: views/admin/admin-manage-support-persons.php:12
+msgid "WhatsApp Single Person Support"
+msgstr "Dukungan Orang Tunggal WhatsApp"
+
+#: views/admin/admin-manage-support-persons.php:23
+#: views/admin/admin-product-query.php:67
+msgid "Support Contact Number"
+msgstr "Nomor Kontak Dukungan"
+
+#: views/admin/admin-manage-support-persons.php:26
+#: views/admin/admin-product-query.php:70
+msgid ""
+"Enter mobile phone number with the international country code, without + "
+"character. Example:  911234567890 for (+91) 1234567890"
+msgstr ""
+"Masukkan nomor ponsel dengan kode negara internasional, tanpa karakter +. "
+"Contoh: 911234567890 untuk (+91) 1234567890"
+
+#: views/admin/admin-manage-support-persons.php:33
+#: views/admin/admin-product-query.php:98
+#: views/admin/multiperson-support/admin-add-multiperson-support.php:40
+#: views/admin/multiperson-support/admin-edit-multiperson-support.php:45
+msgid "Support Person Image"
+msgstr "Dukungan Orang Gambar"
+
+#: views/admin/admin-manage-support-persons.php:37
+msgid "Upload support person image"
+msgstr "Unggah gambar dukungan orang"
+
+#: views/admin/admin-manage-support-persons.php:56
+msgid "WhatsApp Group Settings"
+msgstr "Pengaturan Grup WhatsApp"
+
+#: views/admin/admin-manage-support-persons.php:67
+msgid "Support Group ID"
+msgstr "Mendukung ID Grup"
+
+#: views/admin/admin-manage-support-persons.php:70
+msgid "Enter your WhatsApp group chat ID"
+msgstr "Masukkan ID obrolan grup WhatsApp Anda"
+
+#: views/admin/admin-manage-support-persons.php:89
+msgid "WhatsApp Multi Account Settings"
+msgstr "Pengaturan Multi Akun WhatsApp"
+
+#: views/admin/admin-manage-support-persons.php:102
+msgid "Edit"
+msgstr "Edit"
+
+#: views/admin/admin-manage-support-persons.php:102
+msgid "Delete"
+msgstr "Menghapus"
+
+#: views/admin/admin-manage-support-persons.php:110
+#: views/admin/admin-manage-support-persons.php:113
+msgid "Add Support Person"
+msgstr "Tambahkan Dukungan Orang"
+
+#: views/admin/admin-plugin-support.php:6
+msgid "Need Customization? Hire an Expert."
+msgstr "Butuh Kustomisasi? Pekerjakan Pakar."
+
+#: views/admin/admin-plugin-support.php:7
+msgid ""
+"We know it’s not easy to find a reliable WordPress expert at a price you can "
+"afford. We have a hand-picked team of professional, reliable, experienced "
+"and FRIENDLY experts."
+msgstr ""
+"Kami tahu tidak mudah untuk menemukan pakar WordPress yang andal dengan "
+"harga yang terjangkau. Kami memiliki tim ahli yang profesional, andal, "
+"berpengalaman, dan RAMAH."
+
+#: views/admin/admin-plugin-support.php:8
+msgid "Hire Now"
+msgstr "Pekerjakan Sekarang"
+
+#: views/admin/admin-plugin-support.php:15
+msgid "Customer Support."
+msgstr "Dukungan Pelanggan."
+
+#: views/admin/admin-plugin-support.php:16
+msgid ""
+"If you need instant support then choose following options. Our support will "
+"reply as soon as possible after you send us a message."
+msgstr ""
+"Jika Anda memerlukan dukungan instan maka pilih opsi berikut. Dukungan kami "
+"akan membalas sesegera mungkin setelah Anda mengirim pesan kepada kami."
+
+#: views/admin/admin-plugin-support.php:18
+msgid "Contact us via Envato"
+msgstr "Hubungi kami melalui Envato"
+
+#: views/admin/admin-plugin-support.php:35
+msgid "Share Debug Report With Our Support Team."
+msgstr "Bagikan Laporan Debug Dengan Tim Dukungan Kami."
+
+#: views/admin/admin-plugin-support.php:36
+msgid ""
+"Generate, download, and share the debug report with our experts. Report "
+"contains site URL, WP version, list of activated plugins and plugin options "
+"setting."
+msgstr ""
+"Hasilkan, unduh, dan bagikan laporan debug dengan para ahli kami. Laporan "
+"berisi URL situs, versi WP, daftar plugin yang diaktifkan dan pengaturan "
+"opsi plugin."
+
+#: views/admin/admin-plugin-support.php:42
+msgid "Download Report"
+msgstr "Unduh Laporan"
+
+#: views/admin/admin-product-query.php:12
+msgid "Product Support Button"
+msgstr "Tombol Dukungan Produk"
+
+#: views/admin/admin-product-query.php:16
+msgid ""
+"Enable / Disable product support button on WooCommerce single product page."
+msgstr ""
+"Aktifkan / Nonaktifkan tombol dukungan produk pada halaman produk tunggal "
+"WooCommerce."
+
+#: views/admin/admin-product-query.php:23
+msgid "Button Location"
+msgstr "Lokasi Tombol"
+
+#: views/admin/admin-product-query.php:27
+msgid "After Short Description"
+msgstr "Setelah Deskripsi Singkat"
+
+#: views/admin/admin-product-query.php:28
+msgid "After Add to Cart Button"
+msgstr "Setelah Tambahkan ke Keranjang Tombol"
+
+#: views/admin/admin-product-query.php:30
+msgid "Choose the location of product query button."
+msgstr "Pilih lokasi tombol permintaan produk."
+
+#: views/admin/admin-product-query.php:40
+msgid "Change button background color."
+msgstr "Ubah warna latar tombol."
+
+#: views/admin/admin-product-query.php:50
+msgid "Change button text color."
+msgstr "Ubah warna teks tombol."
+
+#: views/admin/admin-product-query.php:57
+msgid "Button Label"
+msgstr "Label Tombol"
+
+#: views/admin/admin-product-query.php:60
+msgid "Enter button label."
+msgstr "Masukkan label tombol."
+
+#: views/admin/admin-product-query.php:78
+#: views/admin/multiperson-support/admin-add-multiperson-support.php:22
+#: views/admin/multiperson-support/admin-edit-multiperson-support.php:25
+msgid "Support Person Name"
+msgstr "Nama Pendukung Orang"
+
+#: views/admin/admin-product-query.php:81
+msgid "Enter the name of support person."
+msgstr "Masukkan nama orang yang mendukung."
+
+#: views/admin/admin-product-query.php:88
+#: views/admin/multiperson-support/admin-add-multiperson-support.php:31
+#: views/admin/multiperson-support/admin-edit-multiperson-support.php:35
+msgid "Support Person Title"
+msgstr "Judul Dukungan Orang"
+
+#: views/admin/admin-product-query.php:91
+msgid "Enter the title / designation of support person."
+msgstr "Masukkan judul / sebutan orang yang mendukung."
+
+#: views/admin/admin-product-query.php:102
+msgid "Upload support person image."
+msgstr "Unggah gambar dukungan orang."
+
+#: views/admin/admin-product-query.php:109
+msgid "Pre Populated Message"
+msgstr "Pesan Pra Populasi"
+
+#: views/admin/admin-product-query.php:112
+#, php-format
+msgid "Use %s shortcode for product title and %s for product URL"
+msgstr "Gunakan %s shortcode untuk judul produk dan %s untuk URL produk"
+
+#: views/admin/admin-product-query.php:132
+msgid "Exclude Query Button"
+msgstr "Kecualikan Tombol Kueri"
+
+#: views/admin/admin-product-query.php:133
+msgid "You can exclude or turn off WhatsApp product query button by products."
+msgstr ""
+"Anda dapat mengecualikan atau mematikan tombol permintaan produk WhatsApp "
+"berdasarkan produk."
+
+#: views/admin/admin-product-query.php:136
+msgid "Exclude by products"
+msgstr "Kecualikan berdasarkan produk"
+
+#: views/admin/admin-product-query.php:151
+msgid ""
+"You can exclude or turn off WhatsApp product query button by categories."
+msgstr ""
+"Anda dapat mengecualikan atau mematikan tombol permintaan produk WhatsApp "
+"berdasarkan kategori."
+
+#: views/admin/admin-product-query.php:154
+msgid "Exclude by categories"
+msgstr "Exclude by categories"
+
+#: views/admin/admin-qr-generator.php:12
+msgid "Enter Message"
+msgstr "Masukkan Pesan"
+
+#: views/admin/admin-qr-generator.php:13 views/admin/admin-qr-generator.php:29
+msgid "Scan QR to talk us via WhatsApp"
+msgstr "Pindai QR untuk berbicara dengan kami melalui WhatsApp"
+
+#: views/admin/admin-qr-generator.php:18
+msgid "QR Image Size"
+msgstr "Ukuran Gambar QR"
+
+#: views/admin/admin-qr-generator.php:20
+msgid "Enter the QR image size in pixel."
+msgstr "Masukkan ukuran gambar QR dalam piksel."
+
+#: views/admin/admin-setting-page.php:2
+msgid "WordPress WhatsApp Support"
+msgstr "WordPress WhatsApp Support"
+
+#: views/admin/admin-setting-page.php:32
+msgid "Appearance"
+msgstr "Penampilan"
+
+#: views/admin/admin-setting-page.php:37
+msgid "Basic Settings"
+msgstr "Pengaturan dasar"
+
+#: views/admin/admin-setting-page.php:42
+msgid "Manage Support Persons"
+msgstr "Kelola Orang yang Mendukung"
+
+#: views/admin/admin-setting-page.php:47
+msgid "Button Generator"
+msgstr "Generator tombol"
+
+#: views/admin/admin-setting-page.php:52
+msgid "Link Generator"
+msgstr "Generator Tautan"
+
+#: views/admin/admin-setting-page.php:57
+msgid "QR Generator"
+msgstr "QR Generator"
+
+#: views/admin/admin-setting-page.php:62
+msgid "Product Query"
+msgstr "Permintaan Produk"
+
+#: views/admin/analytics/admin-deep-analytics.php:8
+msgid "Country"
+msgstr "Negara"
+
+#: views/admin/analytics/admin-deep-analytics.php:12
+msgid "Region"
+msgstr "Wilayah"
+
+#: views/admin/analytics/admin-deep-analytics.php:16
+msgid "City"
+msgstr "Kota"
+
+#: views/admin/analytics/admin-deep-analytics.php:20
+msgid "ZIP Code"
+msgstr "Kode Pos"
+
+#: views/admin/analytics/admin-deep-analytics.php:29
+msgid "Timezone"
+msgstr "Zona waktu"
+
+#: views/admin/analytics/admin-deep-analytics.php:33
+msgid "Internet Service Provider"
+msgstr "Penyedia layanan internet"
+
+#: views/admin/analytics/admin-deep-analytics.php:37
+msgid "Organization Name"
+msgstr "Nama Organisasi"
+
+#: views/admin/multiperson-support/admin-add-multiperson-support.php:12
+#: views/admin/multiperson-support/admin-edit-multiperson-support.php:14
+msgid "Support Person Contact"
+msgstr "Dukungan Orang Kontak"
+
+#: views/admin/multiperson-support/admin-add-multiperson-support.php:15
+#: views/admin/multiperson-support/admin-edit-multiperson-support.php:18
+msgid ""
+"Enter mobile phone number with the international country code, without \"+\" "
+"character. Example:  911234567890 for (+91) 1234567890"
+msgstr ""
+"Masukkan nomor ponsel dengan kode negara internasional, tanpa karakter \"+"
+"\". Contoh: 911234567890 untuk (+91) 1234567890"
+
+#: views/admin/multiperson-support/admin-add-multiperson-support.php:33
+#: views/admin/multiperson-support/admin-edit-multiperson-support.php:38
+msgid "Enter support person title/designation."
+msgstr "Masukkan judul/penunjukan orang dukungan."
+
+#: views/admin/multiperson-support/admin-add-multiperson-support.php:43
+#: views/admin/multiperson-support/admin-edit-multiperson-support.php:49
+msgid "Add support person image"
+msgstr "Tambahkan gambar orang dukungan"
+
+#: views/admin/multiperson-support/admin-add-multiperson-support.php:50
+#: views/admin/multiperson-support/admin-edit-multiperson-support.php:56
+msgid "Support Pre Message"
+msgstr "Mendukung Pesan Awal"
+
+#: views/admin/multiperson-support/admin-add-multiperson-support.php:109
+#: views/admin/multiperson-support/admin-edit-multiperson-support.php:116
+msgid "Schedule by days to show contact person availablity. Time format HH:MM"
+msgstr ""
+"Jadwalkan berdasarkan hari untuk menunjukkan ketersediaan contact person. "
+"Format waktu HH:MM"
+
+#: views/admin/notifications/admin-review.php:2
+msgid "Leave A Review?"
+msgstr "Tinggalkan Review?"
+
+#: views/admin/notifications/admin-review.php:8
+#, php-format
+msgid ""
+"We hope you've enjoyed using %s Would you consider leaving us a review on %s"
+msgstr ""
+"Kami harap Anda menikmati menggunakan %s Akankah Anda mempertimbangkan untuk "
+"memberi kami ulasan tentang %s"
+
+#: views/admin/notifications/admin-review.php:21
+msgid "Sure! I'd love to!"
+msgstr "Yakin! Dengan senang hati!"
+
+#: views/admin/notifications/admin-review.php:26
+msgid "I've already left a review"
+msgstr "Saya sudah meninggalkan ulasan"
+
+#: views/admin/notifications/admin-review.php:30
+msgid "Never show again"
+msgstr "Jangan pernah muncul lagi"
+
+#: views/wws-template-6.php:74
+msgid "Available"
+msgstr "Tersedia"
+
+#: views/wws-template-6.php:92
+msgid "Away"
+msgstr "Jauh"
+
+#: wordpress-whatsapp-support.php:104
+msgid "Settings"
+msgstr "Pengaturan"
+
+#. Plugin Name of the plugin/theme
+msgid "WeCreativez WhatsApp Support"
+msgstr "Dukungan WeCreativez WhatsApp"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wecreativez.com/"
+msgstr "http://wecreativez.com/"
+
+#. Description of the plugin/theme
+msgid ""
+"WordPress WhatsApp Support plugin provides better and easy way to "
+"communicate visitors and customers directly to your support person."
+msgstr ""
+"Plugin WordPress WhatsApp Support memberikan cara yang lebih baik dan mudah "
+"untuk mengomunikasikan pengunjung dan pelanggan secara langsung kepada orang "
+"yang Anda dukung."
+
+#. Author of the plugin/theme
+msgid "Sonu Kaushal"
+msgstr "Sonu Kaushal"
+
+#. Author URI of the plugin/theme
+msgid "http://sonukaushal.com/"
+msgstr "http://sonukaushal.com/"
+
+#~ msgid "Shortcode Generator"
+#~ msgstr "Generator Kode Pendek"
+
+#~ msgid "WooCommerce not installed or maybe no activated."
+#~ msgstr "WooCommerce tidak diinstal atau mungkin tidak diaktifkan."
+
+#~ msgid "Report shared."
+#~ msgstr "Laporan dibagikan."
+
+#~ msgid "GDPR settings saved."
+#~ msgstr "Pengaturan GDPR disimpan."
+
+#~ msgid ""
+#~ "Enter your purchase code to get instant support and advance customer "
+#~ "service! %s"
+#~ msgstr ""
+#~ "Masukkan kode pembelian Anda untuk mendapatkan dukungan instan dan "
+#~ "memajukan layanan pelanggan! %s"
+
+#~ msgid "Enter here"
+#~ msgstr "Masukkan di sini"
+
+#~ msgid "Enter support person name."
+#~ msgstr "Masukkan nama orang dukungan."
+
+#~ msgid "%s to display current page title in chat."
+#~ msgstr "%s untuk menampilkan judul halaman saat ini dalam obrolan."
+
+#~ msgid "%s to display current page URL in chat."
+#~ msgstr "%s untuk menampilkan URL halaman saat ini dalam obrolan."
+
+#~ msgid "%s to break the line into a new line."
+#~ msgstr "%s untuk memecah garis menjadi baris baru."
+
+#~ msgid "Add"
+#~ msgstr "Menambahkan"
+
+#~ msgid "Save"
+#~ msgstr "Menyimpan"
+
+#~ msgid "Plugin Activated"
+#~ msgstr "Plugin Diaktifkan"
+
+#~ msgid "Enter your Envato purchase code to activate"
+#~ msgstr "Masukkan kode pembelian Envato Anda untuk mengaktifkan"
+
+#~ msgid "Click on IP address to know more about the visitors"
+#~ msgstr "Klik alamat IP untuk mengetahui lebih banyak tentang pengunjung"
+
+#~ msgid "Enable GDPR"
+#~ msgstr "Aktifkan GDPR"
+
+#~ msgid "Copy and share the link"
+#~ msgstr "Salin dan bagikan tautan"
+
+#~ msgid "Designing"
+#~ msgstr "Merancang"
+
+#~ msgid "Add Support person image"
+#~ msgstr "Tambahkan gambar orang Dukungan"
+
+#~ msgid "WeCreativez WhatsApp Support - Support"
+#~ msgstr "Dukungan WeCreativez WhatsApp - Dukungan"
+
+#~ msgid "Plugin Registration"
+#~ msgstr "Pendaftaran Plugin"
+
+#~ msgid "Plugin Not Activated"
+#~ msgstr "Plugin Tidak Diaktifkan"
+
+#~ msgid "This is the address where we will contact you."
+#~ msgstr "Ini adalah alamat di mana kami akan menghubungi Anda."
+
+#~ msgid "Enable"
+#~ msgstr "Memungkinkan"
+
+#~ msgid "Enable Debugging"
+#~ msgstr "Aktifkan Debugging"
+
+#~ msgid "HTML in"
+#~ msgstr "HTML masuk"
+
+#~ msgid "Fix Widget Shortcode"
+#~ msgstr "Perbaiki Shortcode Widget"
+
+#~ msgid "Disable Auto Update"
+#~ msgstr "Nonaktifkan Pembaruan Otomatis"
+
+#~ msgid "Display product share button on mobile."
+#~ msgstr "Tampilkan tombol berbagi produk di seluler."
+
+#~ msgid "Support Message"
+#~ msgstr "Pesan Dukungan"
+
+#~ msgid "Enter the pre populate support message here."
+#~ msgstr "Masukkan pesan dukungan pra-populasi di sini."
+
+#~ msgid "Save Product Support"
+#~ msgstr "Simpan Dukungan Produk"
+
+#~ msgid "WeCreativez WhatsApp Support - Shortcode Generator"
+#~ msgstr "Dukungan WeCreativez WhatsApp - Generator Kode Pendek"
+
+#~ msgid "HTML Code"
+#~ msgstr "Kode HTML"
+
+#~ msgid "WordPress"
+#~ msgstr "WordPress"
+
+#~ msgid "WooCommerce"
+#~ msgstr "WooCommerce"

@@ -1,0 +1,128 @@
+/* Fixed WordPress .wrap class */
+.wrap * {
+    box-sizing: border-box;
+}
+
+/* Datatable design */
+.wws-admin-datatable thead tr th,
+.wws-admin-datatable tfoot tr th  {
+    padding: 8px 10px;
+    color: #32373c;
+    border-bottom: 1px solid #e1e1e1;
+    border-top: 1px solid #e1e1e1;
+    font-weight: 400;
+}
+
+/* WWS custom admin field design */
+.wws-admin-field {
+    display: block;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.wws-admin-field label {
+    display: block;
+    text-align: left;
+    font-weight: 700;
+    margin-bottom: 4px;
+}
+
+.wws-admin-field p {
+    margin: 0;
+    font-style: italic;
+    color: #666;
+}
+
+.wws-admin-field select, .wws-admin-field textarea, .wws-admin-field input[type='number'], .wws-admin-field input[type='text'] {
+    width: 100%;
+    box-shadow: none;
+    border: 1px solid #bbb;
+}
+
+/* Appearance setting page CSS */
+.sk-wws-admin-label > .sk-wws-admin-radio {
+
+    /* HIDE RADIO */
+    visibility: hidden; /* Makes input not-clickable */
+    position: absolute; /* Remove input from document flow */
+}
+
+.sk-wws-admin-label > .sk-wws-admin-radio + .sk-wws-admin-radio-image {
+
+    /* IMAGE STYLES */
+    cursor: pointer;
+    border: 2px solid transparent;
+    -webkit-filter: drop-shadow(0 0 5px rgba(0, 0, 0, .1));
+    -moz-filter: drop-shadow(0 0 5px rgba(0, 0, 0, .1));
+    -o-filter: drop-shadow(0 0 5px rgba(0, 0, 0, .1));
+    -ms-filter: drop-shadow(0 0 5px rgba(0, 0, 0, .1));
+    filter: drop-shadow(0 0 5px rgba(0, 0, 0, .1));
+}
+
+.sk-wws-admin-label > .sk-wws-admin-radio:checked + .sk-wws-admin-radio-image {
+
+    /* (RADIO CHECKED) IMAGE STYLES */
+    border: 2px solid #22C15E;
+}
+
+/* Basic settings page CSS */
+#wws-admin__custom-css {
+    height: 200px;
+    width: 524px;
+    max-width: 100%;
+    background: #333;
+    color: #fff;
+    font-size: 13px;
+}
+
+/* Button generator admin page CSS */
+.wws-button-generator {
+    width: 100%;
+    padding: 15px;
+}
+
+.wws-button-gen-visual-representation {
+    width: 100%;
+    padding: 0px 15px 40px 15px;
+    text-align: center;
+}
+
+.wws-button-gen-visual-representation p {
+    display: block;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.wws-button-gen-visual-representation button {
+    color: #fff;
+    background-color: #22c15e;
+    border: none;
+    border-radius: 3px;
+    padding: 5px 10px;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+#wws-button-gen-invitation {
+    display: none;
+}
+
+/* Link generator admin page CSS */
+.wws-link-generator {
+    width: 100%;
+    padding: 15px;
+}
+
+#wws-link-gen-group {
+    display: none;
+}
+
+
+/* QR CSS Admin */
+#wws-admin-qr-view {
+    text-align: center;
+    margin-bottom: 30px;
+}
+#wws-qr-gen-code i {
+    display: none;
+}

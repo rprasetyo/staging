@@ -1,0 +1,1299 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WeCreativez WhatsApp Support\n"
+"POT-Creation-Date: 2019-08-10 16:41+0530\n"
+"PO-Revision-Date: 2019-08-10 16:50+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wordpress-whatsapp-support.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;"
+"esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;"
+"__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/classes/admin/class-wws-admin-menu.php:29
+#: includes/classes/admin/class-wws-admin-menu.php:30
+#: includes/classes/admin/class-wws-admin-menu.php:50
+#: includes/classes/admin/class-wws-admin-menu.php:51
+msgid "WhatsApp Support"
+msgstr "WhatsApp Support"
+
+#: includes/classes/admin/class-wws-admin-menu.php:40
+#: includes/classes/admin/class-wws-admin-menu.php:41
+#: includes/classes/admin/class-wws-admin-menu.php:88
+#: includes/classes/admin/class-wws-admin-menu.php:89 views/admin/admin-setting-page.php:67
+msgid "Plugin Support"
+msgstr "प्लगइन समर्थन"
+
+#: includes/classes/admin/class-wws-admin-menu.php:61
+#: includes/classes/admin/class-wws-admin-menu.php:62
+msgid "Analytics"
+msgstr "एनालिटिक्स"
+
+#: includes/classes/admin/class-wws-admin-menu.php:70
+#: includes/classes/admin/class-wws-admin-menu.php:71
+msgid "FB & GA Analytics"
+msgstr "FB और GA विश्लेषिकी"
+
+#: includes/classes/admin/class-wws-admin-menu.php:79
+#: includes/classes/admin/class-wws-admin-menu.php:80 views/admin/admin-gdpr-setting-page.php:3
+msgid "GDPR Setting"
+msgstr "GDPR सेटिंग"
+
+#: includes/classes/admin/class-wws-admin-notifications.php:31
+msgid "Settings saved."
+msgstr "सेटिंग्स को सहेजा गया।."
+
+#: includes/classes/admin/class-wws-admin-notifications.php:43
+#, php-format
+msgid ""
+"Settings saved. If you changed the layout then please go to <a href=\"%s\">Manage Support "
+"Persons</a> to add or modify the support persons."
+msgstr ""
+"सेटिंग्स को सहेजा गया। यदि आपने लेआउट बदल दिया है, तो कृपया समर्थन व्यक्तियों को जोड़ने या संशोधित करने के लिए "
+"<a href=\"%s\"> प्रबंधन सहायता प्रबंधित करें </a> पर जाएं।"
+
+#: includes/classes/admin/class-wws-admin-notifications.php:55
+msgid "Report generated. Please click on Download Report button."
+msgstr "रिपोर्ट तैयार की गई कृपया डाउनलोड रिपोर्ट बटन पर क्लिक करें।"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:27
+msgid "WhatsApp Support Button"
+msgstr "व्हाट्सएप समर्थन बटन"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:30
+msgid "Content"
+msgstr "सामग्री"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:37
+#: views/admin/admin-button-generator.php:17 views/admin/admin-qr-generator.php:6
+msgid "Support Number"
+msgstr "समर्थन संख्या"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:39
+msgid "911234567890"
+msgstr "911234567890"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:40
+msgid "Enter mobile phone number with the international country code, without '+' character."
+msgstr "'+' चरित्र के बिना अंतरराष्ट्रीय देश कोड के साथ मोबाइल फोन नंबर दर्ज करें।."
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:46
+#: views/admin/admin-button-generator.php:28
+msgid "Button Text"
+msgstr "टेक्स्ट बटन"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:48
+msgid "Contact Us"
+msgstr "हमसे संपर्क करें"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:54
+#: views/admin/admin-product-query.php:37
+msgid "Button Color"
+msgstr "बटन रंग"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:62
+#: views/admin/admin-button-generator.php:42 views/admin/admin-product-query.php:47
+msgid "Button Text Color"
+msgstr "बटन पाठ रंग"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:68
+#: views/admin/admin-button-generator.php:53
+msgid "Button Bold Text"
+msgstr "बटन बोल्ड टेक्स्ट"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:71
+#: includes/classes/admin/class-wws-admin-visual-composer.php:105
+#: includes/classes/admin/class-wws-admin-visual-composer.php:117
+#: includes/classes/admin/class-wws-admin-visual-composer.php:127
+#: views/admin/admin-basic-settings.php:60 views/admin/admin-basic-settings.php:83
+#: views/admin/admin-basic-settings.php:106 views/admin/admin-button-generator.php:55
+#: views/admin/admin-button-generator.php:78 views/admin/admin-button-generator.php:100
+#: views/admin/admin-button-generator.php:109
+msgid "No"
+msgstr "नहीं"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:72
+#: includes/classes/admin/class-wws-admin-visual-composer.php:106
+#: includes/classes/admin/class-wws-admin-visual-composer.php:116
+#: includes/classes/admin/class-wws-admin-visual-composer.php:126
+#: views/admin/admin-basic-settings.php:59 views/admin/admin-basic-settings.php:82
+#: views/admin/admin-basic-settings.php:105 views/admin/admin-button-generator.php:56
+#: views/admin/admin-button-generator.php:79 views/admin/admin-button-generator.php:99
+#: views/admin/admin-button-generator.php:108
+msgid "Yes"
+msgstr "हाँ"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:78
+#: views/admin/admin-button-generator.php:62
+msgid "Button Font Style"
+msgstr "बटन फ़ॉन्ट शैली"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:81
+#: views/admin/admin-button-generator.php:64
+msgid "Theme Default"
+msgstr "थीम डिफ़ॉल्ट"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:82
+msgid "Lobster"
+msgstr "Lobster"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:83
+msgid "Satisfy"
+msgstr "Satisfy"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:84
+msgid "Bree Serif"
+msgstr "Bree Serif"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:85
+msgid "Oswald"
+msgstr "Oswald"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:86
+msgid "Ubuntu"
+msgstr "Ubuntu"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:87
+msgid "Dancing Script"
+msgstr "Dancing Script"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:94
+#: views/admin/admin-button-generator.php:87 views/admin/admin-link-generator.php:28
+msgid "Pre Populate Message"
+msgstr "पूर्व जनसंख्या संदेश"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:96
+msgid "Hello..."
+msgstr "नमस्ते."
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:97
+#: views/admin/admin-button-generator.php:89
+msgid "This is what you will receive when user sent message first time."
+msgstr "जब उपयोगकर्ता ने पहली बार संदेश भेजा था तो यह वही होगा।."
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:102
+#: views/admin/admin-button-generator.php:76
+msgid "Full Width Button"
+msgstr "पूर्ण चौड़ाई बटन"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:108
+msgid "This will expand button to full width."
+msgstr "यह बटन को पूर्ण चौड़ाई तक बढ़ाएगा।."
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:113
+#: views/admin/admin-basic-settings.php:77
+msgid "Display On Mobile"
+msgstr "मोबाइल पर प्रदर्शन"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:123
+#: views/admin/admin-basic-settings.php:54 views/admin/admin-button-generator.php:106
+msgid "Display On Desktop"
+msgstr "डेस्कटॉप पर प्रदर्शित करें"
+
+#: includes/classes/admin/class-wws-plugin-activation.php:35
+msgid "Activate Plugin"
+msgstr "प्लगइन को सक्रिय करें"
+
+#: includes/classes/admin/class-wws-plugin-activation.php:36
+msgid ""
+"Please enter your purchase code. Purchasing plugin license also grants access to premium "
+"support. <br>Use one license per domain please!"
+msgstr ""
+"कृपया अपना खरीद कोड दर्ज करें। क्रय प्लगइन लाइसेंस भी प्रीमियम समर्थन तक पहुंच प्रदान करता है। <br>कृपया प्रति "
+"डोमेन एक लाइसेंस का उपयोग करें!"
+
+#: includes/classes/admin/class-wws-plugin-activation.php:40
+msgid "Enter Envato Purchase Code"
+msgstr "एनवाटो खरीद कोड दर्ज करें"
+
+#: includes/classes/admin/class-wws-plugin-activation.php:43
+msgid "Activate"
+msgstr "सक्रिय"
+
+#: includes/classes/admin/class-wws-plugin-activation.php:45
+msgid "Deactivate"
+msgstr "निष्क्रिय करें"
+
+#: includes/classes/admin/class-wws-plugin-activation.php:55
+#, php-format
+msgid "<a href=\"%s\" target=\"_blank\">Where is my purchase code?</a>"
+msgstr "<a href=\"%s\" target=\"_blank\"> मेरा खरीदारी कोड कहां है? </a>"
+
+#: includes/classes/admin/class-wws-plugin-activation.php:57
+#, php-format
+msgid "<a href=\"%s\">Need our help?</a>"
+msgstr "<a href=\"%s\"> हमारी सहायता की आवश्यकता है? </a>"
+
+#: includes/classes/admin/class-wws-plugin-activation.php:102
+msgid "Invalid Purchase Code"
+msgstr "अमान्य खरीद कोड"
+
+#: includes/classes/admin/class-wws-plugin-activation.php:109
+msgid "Your key is blocked. Please contact us."
+msgstr "आपकी कुंजी अवरुद्ध है। कृपया हमसे सम्पर्क करें।"
+
+#: includes/classes/admin/class-wws-plugin-activation.php:115
+#, php-format
+msgid "Error Code: %s. Please contact us."
+msgstr "त्रुटि कोड: %s कृपया हमसे सम्पर्क करें।"
+
+#: includes/classes/admin/class-wws-plugin-activation.php:124
+msgid "Server error. Please contact us."
+msgstr "सर्वर त्रुटि। कृपया हमसे सम्पर्क करें।"
+
+#: plugin-core/classes/wc-field.php:237
+msgid "Upload Image"
+msgstr "तस्वीर डालिये"
+
+#: views/admin/admin-analytics-page.php:5
+msgid "WeCreativez WhatsApp Support - Analytics"
+msgstr "WeCreativez व्हाट्सएप समर्थन - एनालिटिक्स"
+
+#: views/admin/admin-analytics-page.php:11
+msgid "Total Clicks Analytics"
+msgstr "कुल क्लिक एनालिटिक्स"
+
+#: views/admin/admin-analytics-page.php:17
+msgid "Total Clicks"
+msgstr "कुल क्लिक"
+
+#: views/admin/admin-analytics-page.php:23
+msgid "Total Clicks By Desktop/ Laptop"
+msgstr "डेस्कटॉप / लैपटॉप द्वारा कुल क्लिक"
+
+#: views/admin/admin-analytics-page.php:29
+msgid "Total Clicks By Mobile"
+msgstr "मोबाइल द्वारा कुल क्लिक"
+
+#: views/admin/admin-analytics-page.php:36
+msgid "Complete Analytics"
+msgstr "पूर्ण एनालिटिक्स"
+
+#: views/admin/admin-analytics-page.php:42 views/admin/admin-analytics-page.php:82
+msgid "Visitors IP"
+msgstr "आगंतुक आईपी"
+
+#: views/admin/admin-analytics-page.php:43 views/admin/admin-analytics-page.php:83
+msgid "Number"
+msgstr "संख्या"
+
+#: views/admin/admin-analytics-page.php:44 views/admin/admin-analytics-page.php:84
+msgid "Message"
+msgstr "संदेश"
+
+#: views/admin/admin-analytics-page.php:45 views/admin/admin-analytics-page.php:85
+msgid "Referral"
+msgstr "रेफरल"
+
+#: views/admin/admin-analytics-page.php:46 views/admin/admin-analytics-page.php:86
+msgid "Device Type"
+msgstr "उपकरण का प्रकार"
+
+#: views/admin/admin-analytics-page.php:47 views/admin/admin-analytics-page.php:87
+msgid "OS"
+msgstr "OS"
+
+#: views/admin/admin-analytics-page.php:48 views/admin/admin-analytics-page.php:88
+msgid "Browser"
+msgstr "ब्राउज़र"
+
+#: views/admin/admin-analytics-page.php:49 views/admin/admin-analytics-page.php:89
+msgid "Date"
+msgstr "दिनांक"
+
+#: views/admin/admin-analytics-page.php:50 views/admin/admin-analytics-page.php:90
+msgid "Action"
+msgstr "कार्य"
+
+#: views/admin/admin-analytics-page.php:99
+msgid "Are you sure?"
+msgstr "क्या आपको यकीन है?"
+
+#: views/admin/admin-analytics-page.php:100
+msgid "Delete Complete Analytics"
+msgstr "पूर्ण एनालिटिक्स हटाएं"
+
+#: views/admin/admin-analytics-page.php:109
+msgid "<strong>N/A</strong> means not applicable for the selected layout."
+msgstr "<strong> N/A </strong> का अर्थ चयनित लेआउट के लिए लागू नहीं है।"
+
+#: views/admin/admin-appearance.php:10
+msgid "Select Layout"
+msgstr "लेआउट का चयन करें"
+
+#: views/admin/admin-appearance.php:11
+msgid "Select your layout."
+msgstr "अपना लेआउट चुनें।."
+
+#: views/admin/admin-appearance.php:69
+msgid "Layout Background Color"
+msgstr "लेआउट पृष्ठभूमि रंग"
+
+#: views/admin/admin-appearance.php:72
+msgid "Set popup layout background color."
+msgstr "पॉपअप लेआउट पृष्ठभूमि रंग सेट करें।."
+
+#: views/admin/admin-appearance.php:79
+msgid "Layout Text Color"
+msgstr "लेआउट पाठ रंग"
+
+#: views/admin/admin-appearance.php:82
+msgid "Set popup layout text color."
+msgstr "पॉपअप लेआउट पाठ रंग सेट करें।."
+
+#: views/admin/admin-appearance.php:89
+msgid "Enable Layout Gradient"
+msgstr "लेआउट ग्रेडियेंट सक्षम करें"
+
+#: views/admin/admin-appearance.php:92 views/admin/admin-appearance.php:129
+#: views/admin/admin-basic-settings.php:121 views/admin/admin-developer-settingspage.php:17
+#: views/admin/admin-developer-settingspage.php:28 views/admin/admin-fb-ga-analytics-page.php:25
+#: views/admin/admin-fb-ga-analytics-page.php:72 views/admin/admin-gdpr-setting-page.php:23
+#: views/admin/admin-product-query.php:15
+msgid "Enable/ Disable"
+msgstr "अक्षम /सक्षम"
+
+#: views/admin/admin-appearance.php:93
+msgid "Enable/ Disable popup background gradient."
+msgstr "पॉपअप पृष्ठभूमि ढाल सक्षम / अक्षम करें।."
+
+#: views/admin/admin-appearance.php:105
+msgid "WhatsApp Support Trigger Button"
+msgstr "व्हाट्सएप समर्थन ट्रिगर बटन"
+
+#: views/admin/admin-appearance.php:116
+msgid "Trigger Button Text"
+msgstr "ट्रिगर बटन टेक्स्ट"
+
+#: views/admin/admin-appearance.php:119
+msgid "If you leave it blank than, trigger button shown as only icon."
+msgstr "यदि आप इसे रिक्त छोड़ देते हैं, तो ट्रिगर बटन केवल आइकन के रूप में दिखाया गया है।."
+
+#: views/admin/admin-appearance.php:126
+msgid "Show Only Icon on Mobile"
+msgstr "मोबाइल पर केवल आइकन दिखाएं"
+
+#: views/admin/admin-appearance.php:130
+msgid "Enable this option if you what to display an icon instead of text button on mobile."
+msgstr "यदि आप मोबाइल पर टेक्स्ट बटन के बजाय आइकन प्रदर्शित करना चाहते हैं तो इस विकल्प को सक्षम करें।."
+
+#: views/admin/admin-appearance.php:142
+msgid "WhatsApp Support Text Settings"
+msgstr "व्हाट्सएप समर्थन पाठ सेटिंग्स"
+
+#: views/admin/admin-appearance.php:153 views/admin/admin-appearance.php:156
+msgid "About Support."
+msgstr "समर्थन के बारे में।"
+
+#: views/admin/admin-appearance.php:163
+msgid "Welcome Messages"
+msgstr "स्वागत संदेश"
+
+#: views/admin/admin-appearance.php:166
+msgid "Welcome message from Support. Sometime this can be use as pre message."
+msgstr "समर्थन से स्वागत संदेश। कभी-कभी इसे पूर्व संदेश के रूप में उपयोग किया जा सकता है।."
+
+#: views/admin/admin-appearance.php:173
+msgid "Input Placeholder Text"
+msgstr "इनपुट प्लेसहोल्डर पाठ"
+
+#: views/admin/admin-appearance.php:176
+msgid "Input placeholder."
+msgstr "इनपुट प्लेसहोल्डर।"
+
+#: views/admin/admin-appearance.php:183
+msgid "Number Placeholder Text"
+msgstr "नंबर प्लेसहोल्डर टेक्स्ट"
+
+#: views/admin/admin-appearance.php:186
+msgid "Enter the placeholder text for asking WhatsApp number from visitors."
+msgstr "आगंतुकों से व्हाट्सएप नंबर पूछने के लिए प्लेसहोल्डर टेक्स्ट दर्ज करें।"
+
+#: views/admin/admin-appearance.php:193
+msgid "Predefined Text"
+msgstr "पूर्वनिर्धारित पाठ"
+
+#: views/admin/admin-appearance.php:196
+#: views/admin/multiperson-support/admin-add-multiperson-support.php:52
+#: views/admin/multiperson-support/admin-edit-multiperson-support.php:59
+#, php-format
+msgid ""
+"%s to display current page title in chat.<br>%s to display current page URL in chat.<br>%s to "
+"break the line into a new line."
+msgstr ""
+"चैट में वर्तमान पृष्ठ शीर्षक प्रदर्शित करने के लिए %s। चैट में वर्तमान पृष्ठ URL प्रदर्शित करने के लिए %s। लाइन को "
+"एक नई पंक्ति में तोड़ने के लिए %s"
+
+#: views/admin/admin-appearance.php:197
+msgid "This will automatically append the following options along with user text."
+msgstr "यह स्वचालित रूप से उपयोगकर्ता पाठ के साथ निम्नलिखित विकल्पों को जोड़ देगा।."
+
+#: views/admin/admin-appearance.php:207 views/admin/admin-basic-settings.php:263
+#: views/admin/admin-developer-settingspage.php:39 views/admin/admin-fb-ga-analytics-page.php:113
+#: views/admin/admin-gdpr-setting-page.php:61 views/admin/admin-manage-support-persons.php:123
+#: views/admin/admin-product-query.php:170
+#: views/admin/multiperson-support/admin-add-multiperson-support.php:121
+#: views/admin/multiperson-support/admin-edit-multiperson-support.php:128
+msgid "Save Changes"
+msgstr "परिवर्तनों को सुरक्षित करें"
+
+#: views/admin/admin-basic-settings.php:12
+msgid "X-axis Offset"
+msgstr "एक्स-अक्ष ऑफसेट"
+
+#: views/admin/admin-basic-settings.php:19 views/admin/admin-basic-settings.php:34
+msgid "In px ( pixels ) only. Default 12px."
+msgstr "केवल px (पिक्सेल) में। डिफ़ॉल्ट 12px।"
+
+#: views/admin/admin-basic-settings.php:20
+msgid "Enter the value of x-axis ( horizontal ) widget spacing."
+msgstr "X- अक्ष (क्षैतिज) विजेट स्पेसिंग का मान दर्ज करें।"
+
+#: views/admin/admin-basic-settings.php:27
+msgid "Y-axis Offset"
+msgstr "Y- अक्ष ऑफसेट"
+
+#: views/admin/admin-basic-settings.php:35
+msgid "Enter the value of y-axis ( vertical ) widget spacing."
+msgstr "Y- अक्ष (ऊर्ध्वाधर) विजेट रिक्ति का मान दर्ज करें।"
+
+#: views/admin/admin-basic-settings.php:55
+msgid "Display on desktop/laptop"
+msgstr "डेस्कटॉप / लैपटॉप पर प्रदर्शित करें"
+
+#: views/admin/admin-basic-settings.php:63 views/admin/admin-basic-settings.php:86
+msgid "Top Left"
+msgstr "ऊपर बाईं"
+
+#: views/admin/admin-basic-settings.php:64 views/admin/admin-basic-settings.php:87
+msgid "Top Center"
+msgstr "ऊपरी मध्य"
+
+#: views/admin/admin-basic-settings.php:65 views/admin/admin-basic-settings.php:88
+msgid "Top Right"
+msgstr "ऊपर दाईं"
+
+#: views/admin/admin-basic-settings.php:66 views/admin/admin-basic-settings.php:89
+msgid "Bottom Left"
+msgstr "नीचे बाएँ"
+
+#: views/admin/admin-basic-settings.php:67 views/admin/admin-basic-settings.php:90
+msgid "Bottom Center"
+msgstr "निचला मध्यम"
+
+#: views/admin/admin-basic-settings.php:68 views/admin/admin-basic-settings.php:91
+msgid "Bottom Right"
+msgstr "नीचे दाएं"
+
+#: views/admin/admin-basic-settings.php:78
+msgid "Display on mobile devices"
+msgstr "मोबाइल उपकरणों पर प्रदर्शित करें"
+
+#: views/admin/admin-basic-settings.php:100
+msgid "Auto Popup"
+msgstr "ऑटो पॉपअप"
+
+#: views/admin/admin-basic-settings.php:101
+msgid "Enter the popup auto display time in seconds"
+msgstr "सेकंड में पॉपअप ऑटो डिस्प्ले समय दर्ज करें"
+
+#: views/admin/admin-basic-settings.php:118
+msgid "Enable RTL"
+msgstr "RTL सक्षम करें"
+
+#: views/admin/admin-basic-settings.php:122
+msgid ""
+"You can enable RTL ( Right to Left ) if your website has language like Arabic, Persian and "
+"Hebrew."
+msgstr ""
+"यदि आपकी वेबसाइट में अरबी, फारसी और हिब्रू जैसी भाषा है तो आप RTL (राइट से लेफ्ट) को सक्षम कर सकते हैं।."
+
+#: views/admin/admin-basic-settings.php:129
+msgid "Scroll Length"
+msgstr "स्क्रॉल लंबाई"
+
+#: views/admin/admin-basic-settings.php:136
+msgid "Leave blank for display every time."
+msgstr "हर बार प्रदर्शन के लिए खाली छोड़ दें।"
+
+#: views/admin/admin-basic-settings.php:137
+msgid "Display button when scroll length matched with above value."
+msgstr "ऊपर मान के साथ स्क्रॉल की गई लंबाई से मिलान करने पर प्रदर्शन बटन।"
+
+#: views/admin/admin-basic-settings.php:146
+msgid "Filter By Page"
+msgstr "पृष्ठ द्वारा फ़िल्टर करें"
+
+#: views/admin/admin-basic-settings.php:151
+msgid "Everwhere"
+msgstr "हर जगह"
+
+#: views/admin/admin-basic-settings.php:156
+msgid "Front Page"
+msgstr "मुखपृष्ठ"
+
+#: views/admin/admin-basic-settings.php:159
+msgid "Include popup on Pages"
+msgstr "पेज पर पॉपअप शामिल करें"
+
+#: views/admin/admin-basic-settings.php:167
+msgid "Select pages, where you want to add WhatsApp Support."
+msgstr "पेज का चयन करें, जहां आप व्हाट्सएप समर्थन जोड़ना चाहते हैं।."
+
+#: views/admin/admin-basic-settings.php:168
+msgid "Exclude popup on Pages"
+msgstr "पेज पर पॉपअप बहिष्कृत करें"
+
+#: views/admin/admin-basic-settings.php:176
+msgid "Select pages, where you not want to add WhatsApp Support."
+msgstr "पेज का चयन करें, जहां आप व्हाट्सएप समर्थन नहीं जोड़ना चाहते हैं।."
+
+#: views/admin/admin-basic-settings.php:185
+#: views/admin/multiperson-support/admin-add-multiperson-support.php:63
+#: views/admin/multiperson-support/admin-edit-multiperson-support.php:70
+msgid "Schedule"
+msgstr "अनुसूची"
+
+#: views/admin/admin-basic-settings.php:191
+#: views/admin/multiperson-support/admin-add-multiperson-support.php:102
+#: views/admin/multiperson-support/admin-edit-multiperson-support.php:109
+msgid "Monday"
+msgstr "सोमवार"
+
+#: views/admin/admin-basic-settings.php:197
+#: views/admin/multiperson-support/admin-add-multiperson-support.php:103
+#: views/admin/multiperson-support/admin-edit-multiperson-support.php:110
+msgid "Tuesday"
+msgstr "मंगलवार"
+
+#: views/admin/admin-basic-settings.php:203
+#: views/admin/multiperson-support/admin-add-multiperson-support.php:104
+#: views/admin/multiperson-support/admin-edit-multiperson-support.php:111
+msgid "Wednesday"
+msgstr "बुधवार"
+
+#: views/admin/admin-basic-settings.php:209
+#: views/admin/multiperson-support/admin-add-multiperson-support.php:105
+#: views/admin/multiperson-support/admin-edit-multiperson-support.php:112
+msgid "Thursday"
+msgstr "गुरूवार"
+
+#: views/admin/admin-basic-settings.php:215
+#: views/admin/multiperson-support/admin-add-multiperson-support.php:106
+#: views/admin/multiperson-support/admin-edit-multiperson-support.php:113
+msgid "Friday"
+msgstr "शुक्रवार"
+
+#: views/admin/admin-basic-settings.php:221
+#: views/admin/multiperson-support/admin-add-multiperson-support.php:107
+#: views/admin/multiperson-support/admin-edit-multiperson-support.php:114
+msgid "Saturday"
+msgstr "शनिवार"
+
+#: views/admin/admin-basic-settings.php:227
+#: views/admin/multiperson-support/admin-add-multiperson-support.php:108
+#: views/admin/multiperson-support/admin-edit-multiperson-support.php:115
+msgid "Sunday"
+msgstr "रविवार"
+
+#: views/admin/admin-basic-settings.php:233
+msgid "Schedule by days to show WhatsApp Support Popup. Time format HH:MM:SS"
+msgstr "व्हाट्सएप समर्थन पॉपअप दिखाने के लिए दिनों के अनुसार अनुसूची। समय प्रारूप एचएच:एमएम:एसएस"
+
+#: views/admin/admin-basic-settings.php:236
+#, php-format
+msgid "Your selected time zone is %s"
+msgstr "आपका चयनित समय क्षेत्र %s है"
+
+#: views/admin/admin-basic-settings.php:247
+msgid "Custom   CSS"
+msgstr "कस्टम सीएसएस"
+
+#: views/admin/admin-basic-settings.php:248
+msgid "Add your custom CSS here"
+msgstr "यहां अपना कस्टम सीएसएस जोड़ें"
+
+#: views/admin/admin-basic-settings.php:261
+msgid "Developer settings"
+msgstr "डेवलपर सेटिंग्स"
+
+#: views/admin/admin-button-generator.php:9
+msgid "Button Type"
+msgstr "बटन प्रकार"
+
+#: views/admin/admin-button-generator.php:11
+msgid "Support Button"
+msgstr "समर्थन बटन"
+
+#: views/admin/admin-button-generator.php:12
+msgid "Group Invitation Button"
+msgstr "समूह आमंत्रण बटन"
+
+#: views/admin/admin-button-generator.php:19 views/admin/admin-link-generator.php:19
+#: views/admin/admin-qr-generator.php:8
+msgid "Enter mobile phone number with the international country code, without \"+\" character"
+msgstr "\"+\" चरित्र के बिना अंतरराष्ट्रीय देश कोड के साथ मोबाइल फोन नंबर दर्ज करें"
+
+#: views/admin/admin-button-generator.php:23 views/admin/admin-link-generator.php:23
+msgid "Group Chat ID"
+msgstr "समूह चैट आईडी"
+
+#: views/admin/admin-button-generator.php:36
+msgid "Button Background Color"
+msgstr "बटन पृष्ठभूमि रंग"
+
+#: views/admin/admin-button-generator.php:97
+msgid "Display On Mobile  "
+msgstr "मोबाइल पर प्रदर्शित"
+
+#: views/admin/admin-button-generator.php:122 views/admin/admin-qr-generator.php:27
+msgid "Visual Representation"
+msgstr "दृश्य प्रतिनिधित्व"
+
+#: views/admin/admin-button-generator.php:128 views/admin/admin-qr-generator.php:33
+msgid "Generated Shortcode"
+msgstr "शॉर्टकोड जनरेट किया"
+
+#: views/admin/admin-button-generator.php:130 views/admin/admin-qr-generator.php:35
+msgid "Copy shortcode and paste wherever you want. Have fun! :)"
+msgstr "शॉर्टकोड कॉपी करें और जहां चाहें पेस्ट करें। मज़े करो! :)"
+
+#: views/admin/admin-button-generator.php:134
+msgid "Generated HTML"
+msgstr "जेनरेटेड लिंक"
+
+#: views/admin/admin-button-generator.php:136
+msgid "Copy HTML and paste wherever you want. Have fun! :)"
+msgstr "HTML कॉपी करें और जहां चाहें पेस्ट करें। मज़े करो! :)"
+
+#: views/admin/admin-button-generator.php:139 views/admin/admin-link-generator.php:44
+#: views/admin/admin-plugin-support.php:40 views/admin/admin-qr-generator.php:38
+msgid "Generate Now"
+msgstr "जेनरेटेड लिंक"
+
+#: views/admin/admin-developer-settingspage.php:3
+msgid "Developer Settings"
+msgstr "डेवलपर सेटिंग्स"
+
+#: views/admin/admin-developer-settingspage.php:14
+msgid "Developer"
+msgstr "डेवलपर मोड सक्षम करें"
+
+#: views/admin/admin-developer-settingspage.php:18
+msgid "Please do not turn on without our recommendation."
+msgstr "कृपया हमारी सिफारिश के बिना चालू न करें।"
+
+#: views/admin/admin-developer-settingspage.php:25
+msgid "Delete Plugin Setting"
+msgstr "प्लगइन सेटिंग हटाएं"
+
+#: views/admin/admin-developer-settingspage.php:29
+msgid ""
+"If you want to delete plugin settings stored in database then enable this option and then click "
+"on the save changes button. Now delete the plugin from your plugins page."
+msgstr ""
+"यदि आप डेटाबेस में संग्रहीत प्लगइन सेटिंग्स को हटाना चाहते हैं तो इस विकल्प को सक्षम करें और फिर सेव चेंज बटन पर "
+"क्लिक करें। अब अपने प्लगइन्स पेज से प्लगइन को हटा दें।"
+
+#: views/admin/admin-fb-ga-analytics-page.php:3
+msgid "Facebook and Google Analytics"
+msgstr "फेसबुक और गूगल एनालिटिक्स"
+
+#: views/admin/admin-fb-ga-analytics-page.php:11
+msgid "Facebook Pixel Analytics"
+msgstr "फेसबुक पिक्सेल एनालिटिक्स"
+
+#: views/admin/admin-fb-ga-analytics-page.php:22
+msgid "Facebook Click Tracking"
+msgstr "फेसबुक क्लिक ट्रैकिंग"
+
+#: views/admin/admin-fb-ga-analytics-page.php:26
+msgid "You can enable or disable facebook pixel click tracking."
+msgstr "आप फेसबुक पिक्सेल क्लिक ट्रैकिंग को सक्षम या अक्षम कर सकते हैं।"
+
+#: views/admin/admin-fb-ga-analytics-page.php:33
+msgid "FB Event"
+msgstr "एफबी इवेंट"
+
+#: views/admin/admin-fb-ga-analytics-page.php:36
+msgid "Enter the name of custom event to track on Facebook pixel."
+msgstr "फेसबुक पिक्सेल पर नज़र रखने के लिए कस्टम इवेंट का नाम दर्ज करें।"
+
+#: views/admin/admin-fb-ga-analytics-page.php:43
+msgid "FB Event Label"
+msgstr "एफबी इवेंट लेबल"
+
+#: views/admin/admin-fb-ga-analytics-page.php:46
+msgid "Enter the label of custom event to track on Facebook pixel."
+msgstr "फेसबुक पिक्सेल पर नज़र रखने के लिए कस्टम ईवेंट का लेबल डालें।"
+
+#: views/admin/admin-fb-ga-analytics-page.php:58
+msgid "Google Click Analytics"
+msgstr "Google क्लिक विश्लेषिकी"
+
+#: views/admin/admin-fb-ga-analytics-page.php:69
+msgid "Google Event Tracking"
+msgstr "Google ईवेंट ट्रैकिंग"
+
+#: views/admin/admin-fb-ga-analytics-page.php:73
+msgid "You can enable or disable google event click tracking."
+msgstr "आप Google ईवेंट क्लिक ट्रैकिंग को सक्षम या अक्षम कर सकते हैं।"
+
+#: views/admin/admin-fb-ga-analytics-page.php:80
+msgid "GA Event"
+msgstr "जीए इवेंट"
+
+#: views/admin/admin-fb-ga-analytics-page.php:83
+msgid "Enter the name of custom the event to track on Google Analytics."
+msgstr "Google Analytics पर नज़र रखने के लिए कस्टम इवेंट का नाम दर्ज करें।"
+
+#: views/admin/admin-fb-ga-analytics-page.php:90
+msgid "GA Event Category"
+msgstr "जीए घटना श्रेणी"
+
+#: views/admin/admin-fb-ga-analytics-page.php:93
+msgid "Enter the name of the event category."
+msgstr "इवेंट श्रेणी का नाम दर्ज करें।"
+
+#: views/admin/admin-fb-ga-analytics-page.php:100
+msgid "GA Event Label"
+msgstr "जीए इवेंट लेबल"
+
+#: views/admin/admin-fb-ga-analytics-page.php:103
+msgid "Enter the label of the event."
+msgstr "ईवेंट का लेबल दर्ज करें।"
+
+#: views/admin/admin-gdpr-setting-page.php:20
+msgid "GDPR"
+msgstr "GDPR"
+
+#: views/admin/admin-gdpr-setting-page.php:24
+msgid "Enable/ Disable GDPR compliant."
+msgstr "जीडीपीआर अनुपालन सक्षम / अक्षम करें।."
+
+#: views/admin/admin-gdpr-setting-page.php:31
+msgid "GDPR Message"
+msgstr "जीडीपीआर संदेश"
+
+#: views/admin/admin-gdpr-setting-page.php:34
+#, php-format
+msgid "Use shortcode %s to add privacy page link."
+msgstr "गोपनीयता पृष्ठ लिंक जोड़ने के लिए शोर्ट %s का उपयोग करें।."
+
+#: views/admin/admin-gdpr-setting-page.php:42
+msgid "Privacy page"
+msgstr "गोपनीयता पृष्ठ"
+
+#: views/admin/admin-gdpr-setting-page.php:43
+msgid "Select your privacy page."
+msgstr "अपना गोपनीयता पृष्ठ चुनें।."
+
+#: views/admin/admin-link-generator.php:9
+msgid "Link Type"
+msgstr "उपकरण का प्रकार"
+
+#: views/admin/admin-link-generator.php:11
+msgid "Chat Link"
+msgstr "जेनरेटेड लिंक"
+
+#: views/admin/admin-link-generator.php:12
+msgid "Group Invitation Link"
+msgstr "समूह आमंत्रण बटन"
+
+#: views/admin/admin-link-generator.php:17
+msgid "WhatsApp Number"
+msgstr "WhatsApp Support"
+
+#: views/admin/admin-link-generator.php:30
+msgid "Enter a message that you will receive when someone clicks on the link."
+msgstr "कोई संदेश दर्ज करें जो आपको प्राप्त होगा जब कोई लिंक पर क्लिक करेगा।."
+
+#: views/admin/admin-link-generator.php:39
+msgid "Generated Link"
+msgstr "जेनरेटेड लिंक"
+
+#: views/admin/admin-link-generator.php:41
+msgid "Copy link and share. Have fun! :)"
+msgstr "लिंक को कॉपी करें और शेयर करें। मज़े करो! :)"
+
+#: views/admin/admin-manage-support-persons.php:12
+msgid "WhatsApp Single Person Support"
+msgstr "व्हाट्सएप एकल व्यक्ति समर्थन"
+
+#: views/admin/admin-manage-support-persons.php:23 views/admin/admin-product-query.php:67
+msgid "Support Contact Number"
+msgstr "समर्थन संपर्क संख्या"
+
+#: views/admin/admin-manage-support-persons.php:26 views/admin/admin-product-query.php:70
+msgid ""
+"Enter mobile phone number with the international country code, without + character. Example:  "
+"911234567890 for (+91) 1234567890"
+msgstr ""
+"अंतरराष्ट्रीय चरित्र कोड के साथ + चरित्र के बिना मोबाइल फोन नंबर दर्ज करें। उदाहरण: 911234567890 (+ 9 1) "
+"1234567890 के लिए"
+
+#: views/admin/admin-manage-support-persons.php:33 views/admin/admin-product-query.php:98
+#: views/admin/multiperson-support/admin-add-multiperson-support.php:40
+#: views/admin/multiperson-support/admin-edit-multiperson-support.php:45
+msgid "Support Person Image"
+msgstr "समर्थन व्यक्ति छवि"
+
+#: views/admin/admin-manage-support-persons.php:37
+msgid "Upload support person image"
+msgstr "समर्थन व्यक्ति छवि अपलोड करें"
+
+#: views/admin/admin-manage-support-persons.php:56
+msgid "WhatsApp Group Settings"
+msgstr "व्हाट्सएप समूह सेटिंग्स"
+
+#: views/admin/admin-manage-support-persons.php:67
+msgid "Support Group ID"
+msgstr "समर्थन समूह आईडी"
+
+#: views/admin/admin-manage-support-persons.php:70
+msgid "Enter your WhatsApp group chat ID"
+msgstr "अपना एक्सट्सएप समूह चैट आईडी दर्ज करें"
+
+#: views/admin/admin-manage-support-persons.php:89
+msgid "WhatsApp Multi Account Settings"
+msgstr "व्हाट्सएप मल्टी खाता सेटिंग्स"
+
+#: views/admin/admin-manage-support-persons.php:102
+msgid "Edit"
+msgstr "संपादित करें"
+
+#: views/admin/admin-manage-support-persons.php:102
+msgid "Delete"
+msgstr "हटाना"
+
+#: views/admin/admin-manage-support-persons.php:110
+#: views/admin/admin-manage-support-persons.php:113
+msgid "Add Support Person"
+msgstr "समर्थन व्यक्ति जोड़ें"
+
+#: views/admin/admin-plugin-support.php:6
+msgid "Need Customization? Hire an Expert."
+msgstr "अनुकूलन की आवश्यकता है? एक विशेषज्ञ किराया।"
+
+#: views/admin/admin-plugin-support.php:7
+msgid ""
+"We know it’s not easy to find a reliable WordPress expert at a price you can afford. We have a "
+"hand-picked team of professional, reliable, experienced and FRIENDLY experts."
+msgstr ""
+"हम जानते हैं कि आपके द्वारा वहन की जा सकने वाली कीमत पर एक विश्वसनीय वर्डप्रेस विशेषज्ञ खोजना आसान नहीं है। "
+"हमारे पास पेशेवर, विश्वसनीय, अनुभवी और FRIENDLY विशेषज्ञों की एक हाथ से चुनी हुई टीम है।"
+
+#: views/admin/admin-plugin-support.php:8
+msgid "Hire Now"
+msgstr "अब किराए पर लें"
+
+#: views/admin/admin-plugin-support.php:15
+msgid "Customer Support."
+msgstr "ग्राहक सहेयता।"
+
+#: views/admin/admin-plugin-support.php:16
+msgid ""
+"If you need instant support then choose following options. Our support will reply as soon as "
+"possible after you send us a message."
+msgstr ""
+"यदि आपको तत्काल सहायता की आवश्यकता है तो निम्नलिखित विकल्पों का चयन करें। आपको संदेश भेजने के बाद हमारा "
+"समर्थन जल्द से जल्द जवाब देगा।"
+
+#: views/admin/admin-plugin-support.php:18
+msgid "Contact us via Envato"
+msgstr "Envato के माध्यम से हमसे संपर्क करें"
+
+#: views/admin/admin-plugin-support.php:35
+msgid "Share Debug Report With Our Support Team."
+msgstr "हमारी सहायता टीम के साथ डिबग रिपोर्ट साझा करें।"
+
+#: views/admin/admin-plugin-support.php:36
+msgid ""
+"Generate, download, and share the debug report with our experts. Report contains site URL, WP "
+"version, list of activated plugins and plugin options setting."
+msgstr ""
+"हमारे विशेषज्ञों के साथ डिबग रिपोर्ट तैयार करें, डाउनलोड करें और साझा करें। रिपोर्ट में साइट URL, WP संस्करण, "
+"सक्रिय प्लगइन्स की सूची और प्लगइन विकल्प सेटिंग शामिल हैं।"
+
+#: views/admin/admin-plugin-support.php:42
+msgid "Download Report"
+msgstr "रिपोर्ट डाउनलोड करें"
+
+#: views/admin/admin-product-query.php:12
+msgid "Product Support Button"
+msgstr "उत्पाद समर्थन बटन"
+
+#: views/admin/admin-product-query.php:16
+msgid "Enable / Disable product support button on WooCommerce single product page."
+msgstr "WooCommerce एकल उत्पाद पृष्ठ पर उत्पाद समर्थन बटन सक्षम / अक्षम करें।."
+
+#: views/admin/admin-product-query.php:23
+msgid "Button Location"
+msgstr "बटन स्थान"
+
+#: views/admin/admin-product-query.php:27
+msgid "After Short Description"
+msgstr "संक्षिप्त विवरण के बाद"
+
+#: views/admin/admin-product-query.php:28
+msgid "After Add to Cart Button"
+msgstr "कार्ट बटन में जोड़ने के बाद"
+
+#: views/admin/admin-product-query.php:30
+msgid "Choose the location of product query button."
+msgstr "उत्पाद क्वेरी बटन का स्थान चुनें।"
+
+#: views/admin/admin-product-query.php:40
+msgid "Change button background color."
+msgstr "बदलें बटन पृष्ठभूमि रंग।."
+
+#: views/admin/admin-product-query.php:50
+msgid "Change button text color."
+msgstr "बदलें बटन टेक्स्ट रंग।."
+
+#: views/admin/admin-product-query.php:57
+msgid "Button Label"
+msgstr "बटन लेबल"
+
+#: views/admin/admin-product-query.php:60
+msgid "Enter button label."
+msgstr "बटन लेबल दर्ज करें।."
+
+#: views/admin/admin-product-query.php:78
+#: views/admin/multiperson-support/admin-add-multiperson-support.php:22
+#: views/admin/multiperson-support/admin-edit-multiperson-support.php:25
+msgid "Support Person Name"
+msgstr "समर्थन व्यक्ति का नाम"
+
+#: views/admin/admin-product-query.php:81
+msgid "Enter the name of support person."
+msgstr "समर्थन व्यक्ति का नाम दर्ज करें।."
+
+#: views/admin/admin-product-query.php:88
+#: views/admin/multiperson-support/admin-add-multiperson-support.php:31
+#: views/admin/multiperson-support/admin-edit-multiperson-support.php:35
+msgid "Support Person Title"
+msgstr "समर्थन व्यक्ति शीर्षक"
+
+#: views/admin/admin-product-query.php:91
+msgid "Enter the title / designation of support person."
+msgstr "समर्थन व्यक्ति का शीर्षक / पदनाम दर्ज करें।."
+
+#: views/admin/admin-product-query.php:102
+msgid "Upload support person image."
+msgstr "समर्थन व्यक्ति छवि अपलोड करें।"
+
+#: views/admin/admin-product-query.php:109
+msgid "Pre Populated Message"
+msgstr "पूर्व आबाद संदेश"
+
+#: views/admin/admin-product-query.php:112
+#, php-format
+msgid "Use %s shortcode for product title and %s for product URL"
+msgstr "उत्पाद यूआरएल के लिए उत्पाद शीर्षक और %s के लिए %s शोर्ट का उपयोग करें"
+
+#: views/admin/admin-product-query.php:132
+msgid "Exclude Query Button"
+msgstr "क्वेरी बटन को छोड़ दें"
+
+#: views/admin/admin-product-query.php:133
+msgid "You can exclude or turn off WhatsApp product query button by products."
+msgstr "आप उत्पादों द्वारा व्हाट्सएप उत्पाद क्वेरी बटन को बहिष्कृत या बंद कर सकते हैं।."
+
+#: views/admin/admin-product-query.php:136
+msgid "Exclude by products"
+msgstr "उत्पादों द्वारा बहिष्कृत करें"
+
+#: views/admin/admin-product-query.php:151
+msgid "You can exclude or turn off WhatsApp product query button by categories."
+msgstr "आप श्रेणियों द्वारा व्हाट्सएप उत्पाद क्वेरी बटन को बहिष्कृत या बंद कर सकते हैं।."
+
+#: views/admin/admin-product-query.php:154
+msgid "Exclude by categories"
+msgstr "श्रेणियों से बाहर निकालें"
+
+#: views/admin/admin-qr-generator.php:12
+msgid "Enter Message"
+msgstr "संदेश दर्ज करें"
+
+#: views/admin/admin-qr-generator.php:13 views/admin/admin-qr-generator.php:29
+msgid "Scan QR to talk us via WhatsApp"
+msgstr "हमें WhatsApp के माध्यम से बात करने के लिए QR स्कैन करें"
+
+#: views/admin/admin-qr-generator.php:18
+msgid "QR Image Size"
+msgstr "क्यूआर छवि का आकार"
+
+#: views/admin/admin-qr-generator.php:20
+msgid "Enter the QR image size in pixel."
+msgstr "पिक्सेल में QR छवि आकार दर्ज करें।"
+
+#: views/admin/admin-setting-page.php:2
+msgid "WordPress WhatsApp Support"
+msgstr "WhatsApp Support"
+
+#: views/admin/admin-setting-page.php:32
+msgid "Appearance"
+msgstr "दिखावट"
+
+#: views/admin/admin-setting-page.php:37
+msgid "Basic Settings"
+msgstr "मूल सेटिंग्स"
+
+#: views/admin/admin-setting-page.php:42
+msgid "Manage Support Persons"
+msgstr "समर्थन व्यक्ति जोड़ें"
+
+#: views/admin/admin-setting-page.php:47
+msgid "Button Generator"
+msgstr "लिंक जनरेटर"
+
+#: views/admin/admin-setting-page.php:52
+msgid "Link Generator"
+msgstr "लिंक जनरेटर"
+
+#: views/admin/admin-setting-page.php:57
+msgid "QR Generator"
+msgstr "क्यूआर जेनरेटर"
+
+#: views/admin/admin-setting-page.php:62
+msgid "Product Query"
+msgstr "उत्पाद क्वेरी"
+
+#: views/admin/analytics/admin-deep-analytics.php:8
+msgid "Country"
+msgstr "देश"
+
+#: views/admin/analytics/admin-deep-analytics.php:12
+msgid "Region"
+msgstr "क्षेत्र"
+
+#: views/admin/analytics/admin-deep-analytics.php:16
+msgid "City"
+msgstr "शहर"
+
+#: views/admin/analytics/admin-deep-analytics.php:20
+msgid "ZIP Code"
+msgstr "पिन कोड"
+
+#: views/admin/analytics/admin-deep-analytics.php:29
+msgid "Timezone"
+msgstr "समय क्षेत्र"
+
+#: views/admin/analytics/admin-deep-analytics.php:33
+msgid "Internet Service Provider"
+msgstr "इंटरनेट सेवा प्रदाता"
+
+#: views/admin/analytics/admin-deep-analytics.php:37
+msgid "Organization Name"
+msgstr "संस्था का नाम"
+
+#: views/admin/multiperson-support/admin-add-multiperson-support.php:12
+#: views/admin/multiperson-support/admin-edit-multiperson-support.php:14
+msgid "Support Person Contact"
+msgstr "समर्थन व्यक्ति संपर्क"
+
+#: views/admin/multiperson-support/admin-add-multiperson-support.php:15
+#: views/admin/multiperson-support/admin-edit-multiperson-support.php:18
+msgid ""
+"Enter mobile phone number with the international country code, without \"+\" character. "
+"Example:  911234567890 for (+91) 1234567890"
+msgstr ""
+"\"+\" चरित्र के बिना अंतरराष्ट्रीय देश कोड के साथ मोबाइल फोन नंबर दर्ज करें। उदाहरण: 911234567890 (+ 9 1) "
+"1234567890 के लिए"
+
+#: views/admin/multiperson-support/admin-add-multiperson-support.php:33
+#: views/admin/multiperson-support/admin-edit-multiperson-support.php:38
+msgid "Enter support person title/designation."
+msgstr "समर्थन व्यक्ति शीर्षक / पदनाम दर्ज करें।."
+
+#: views/admin/multiperson-support/admin-add-multiperson-support.php:43
+#: views/admin/multiperson-support/admin-edit-multiperson-support.php:49
+msgid "Add support person image"
+msgstr "समर्थन व्यक्ति छवि जोड़ें"
+
+#: views/admin/multiperson-support/admin-add-multiperson-support.php:50
+#: views/admin/multiperson-support/admin-edit-multiperson-support.php:56
+msgid "Support Pre Message"
+msgstr "समर्थन पूर्व संदेश"
+
+#: views/admin/multiperson-support/admin-add-multiperson-support.php:109
+#: views/admin/multiperson-support/admin-edit-multiperson-support.php:116
+msgid "Schedule by days to show contact person availablity. Time format HH:MM"
+msgstr "संपर्क व्यक्ति उपलब्धता दिखाने के लिए दिनों के अनुसार शेड्यूल करें। समय प्रारूप HH: MM"
+
+#: views/admin/notifications/admin-review.php:2
+msgid "Leave A Review?"
+msgstr "समीक्षा लिखें?"
+
+#: views/admin/notifications/admin-review.php:8
+#, php-format
+msgid "We hope you've enjoyed using %s Would you consider leaving us a review on %s"
+msgstr "हमें आशा है कि आपने %s का आनंद लिया होगा क्या आप हमें %s पर समीक्षा छोड़ने पर विचार करेंगे"
+
+#: views/admin/notifications/admin-review.php:21
+msgid "Sure! I'd love to!"
+msgstr "ज़रूर! मुझे खुशी होगी!"
+
+#: views/admin/notifications/admin-review.php:26
+msgid "I've already left a review"
+msgstr "मैंने पहले से ही एक समीक्षा छोड़ दी है"
+
+#: views/admin/notifications/admin-review.php:30
+msgid "Never show again"
+msgstr "फिर कभी दिखाई मत देना"
+
+#: views/wws-template-6.php:74
+msgid "Available"
+msgstr "उपलब्ध"
+
+#: views/wws-template-6.php:92
+msgid "Away"
+msgstr "दूर"
+
+#: wordpress-whatsapp-support.php:104
+msgid "Settings"
+msgstr "जीडीपीआर सेटिंग्स"
+
+#. Plugin Name of the plugin/theme
+msgid "WeCreativez WhatsApp Support"
+msgstr "WeCreativez व्हाट्सएप समर्थन"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wecreativez.com/"
+msgstr "http://wecreativez.com/"
+
+#. Description of the plugin/theme
+msgid ""
+"WordPress WhatsApp Support plugin provides better and easy way to communicate visitors and "
+"customers directly to your support person."
+msgstr ""
+"वर्डप्रेस व्हाट्सएप समर्थन प्लगइन आगंतुकों और ग्राहकों को सीधे आपके समर्थन व्यक्ति को संवाद करने के लिए बेहतर और "
+"आसान तरीका प्रदान करता है।."
+
+#. Author of the plugin/theme
+msgid "Sonu Kaushal"
+msgstr "सोनू कौशल"
+
+#. Author URI of the plugin/theme
+msgid "http://sonukaushal.com/"
+msgstr "http://sonukaushal.com/"
+
+#~ msgid "Shortcode Generator"
+#~ msgstr "शोर्ट जेनरेटर"
+
+#~ msgid "WooCommerce not installed or maybe no activated."
+#~ msgstr "WooCommerce स्थापित नहीं है या शायद कोई सक्रिय नहीं है."
+
+#~ msgid "Report shared."
+#~ msgstr "रिपोर्ट साझा की गई।."
+
+#~ msgid "GDPR settings saved."
+#~ msgstr "जीडीपीआर सेटिंग्स सहेजा गया।."
+
+#~ msgid "Enter your purchase code to get instant support and advance customer service! %s"
+#~ msgstr "तत्काल समर्थन और अग्रिम ग्राहक सेवा प्राप्त करने के लिए अपना खरीद कोड दर्ज करें! %s"
+
+#~ msgid "Enter here"
+#~ msgstr "यहाँ से प्रवेश करें"
+
+#~ msgid "Enter support person name."
+#~ msgstr "समर्थन व्यक्ति का नाम दर्ज करें।."
+
+#~ msgid "%s to display current page title in chat."
+#~ msgstr "बातचीत में वर्तमान पृष्ठ शीर्षक प्रदर्शित करने के लिए %s।."
+
+#~ msgid "%s to display current page URL in chat."
+#~ msgstr "बातचीत में वर्तमान पृष्ठ यूआरएल प्रदर्शित करने के लिए %s।."
+
+#~ msgid "%s to break the line into a new line."
+#~ msgstr "लाइन को एक नई लाइन में तोड़ने के लिए %s।."
+
+#~ msgid "Add"
+#~ msgstr "जोड़ना"
+
+#~ msgid "Save"
+#~ msgstr "बचाना"
+
+#~ msgid "Plugin Activated"
+#~ msgstr "प्लगइन सक्रिय"
+
+#~ msgid "Enter your Envato purchase code to activate"
+#~ msgstr "सक्रिय करने के लिए अपना Envato खरीद कोड दर्ज करें"
+
+#~ msgid "Click on IP address to know more about the visitors"
+#~ msgstr "आगंतुकों के बारे में अधिक जानने के लिए आईपी पते पर क्लिक करें"
+
+#~ msgid "Enable GDPR"
+#~ msgstr "जीडीपीआर सक्षम करें"
+
+#~ msgid "Copy and share the link"
+#~ msgstr "लिंक कॉपी और साझा करें"
+
+#~ msgid "Designing"
+#~ msgstr "डिज़ाइन बनाना"
+
+#~ msgid "Add Support person image"
+#~ msgstr "समर्थन व्यक्ति छवि जोड़ें"
+
+#~ msgid "WeCreativez WhatsApp Support - Support"
+#~ msgstr "WeCreativez व्हाट्सएप समर्थन - समर्थन"
+
+#~ msgid "Plugin Registration"
+#~ msgstr "प्लगइन पंजीकरण"
+
+#~ msgid "Plugin Not Activated"
+#~ msgstr "प्लगइन सक्रिय नहीं है"
+
+#~ msgid "This is the address where we will contact you."
+#~ msgstr "यह वह पता है जहां हम आपसे संपर्क करेंगे।."
+
+#~ msgid "Enable"
+#~ msgstr "सक्षम करें"
+
+#~ msgid "Enable Debugging"
+#~ msgstr "डिबगिंग सक्षम करें"
+
+#~ msgid "HTML in"
+#~ msgstr "HTML में"
+
+#~ msgid "Fix Widget Shortcode"
+#~ msgstr "विजेट शोर्ट ठीक करें"
+
+#~ msgid "Disable Auto Update"
+#~ msgstr "ऑटो अपडेट अक्षम करें"
+
+#~ msgid "Display product share button on mobile."
+#~ msgstr "मोबाइल पर उत्पाद शेयर बटन प्रदर्शित करें।."
+
+#~ msgid "Support Message"
+#~ msgstr "समर्थन संदेश"
+
+#~ msgid "Enter the pre populate support message here."
+#~ msgstr "यहां पूर्व जनसंख्या समर्थन संदेश दर्ज करें।."
+
+#~ msgid "Save Product Support"
+#~ msgstr "उत्पाद समर्थन सहेजें"
+
+#~ msgid "WeCreativez WhatsApp Support - Shortcode Generator"
+#~ msgstr "WeCreativez व्हाट्सएप समर्थन - शोर्ट जेनरेटर"
+
+#~ msgid "HTML Code"
+#~ msgstr "HTML कोड"
+
+#~ msgid "WordPress"
+#~ msgstr "WordPress"
+
+#~ msgid "WooCommerce"
+#~ msgstr "WooCommerce"

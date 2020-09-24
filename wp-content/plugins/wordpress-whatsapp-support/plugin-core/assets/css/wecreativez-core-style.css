@@ -1,0 +1,123 @@
+/* Add tippy tooltip in admin */
+.form-table th {
+	padding: 20px 40px 20px 0 !important;
+    width: 250px !important;
+}
+.form-table th .wecreativez-admin-tooltip {
+    float: right;
+    margin-right: -40px;
+    color: #444;
+    vertical-align: middle;
+}
+
+/* Miscellaneous */
+.wecreativez-clearfix::after {
+    content:'';
+    display:block;
+    clear: both;
+}   
+
+/* Datatable design */
+.wecreativez-datatable thead tr th,
+.wecreativez-datatable tfoot tr th  {
+    padding: 8px 10px;
+    color: #32373c;
+    border-bottom: 1px solid #e1e1e1;
+    border-top: 1px solid #e1e1e1;
+    font-weight: 400;
+}
+
+/* Admin buttons */
+.wecreativez-btn-delete {
+    color: #a00;
+    text-decoration: none;
+    border-color: transparent;
+    box-shadow: none;
+    background: 0 0;
+    vertical-align: top;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 13px;
+    line-height: 26px;
+    height: 28px;
+    margin: 0;
+    padding: 0 10px 1px;
+    cursor: pointer;
+    border-width: 1px;
+    border-style: solid;
+    -webkit-appearance: none;
+    border-radius: 3px;
+    white-space: nowrap;
+    box-sizing: border-box;
+    text-align: center;
+    clear: both;
+    outline: none;
+}
+.wecreativez-btn-delete:hover {
+    background: #d54e21;
+    color: #fff;
+    border-color: #d54e21;
+}
+.wecreativez-btn-delete.right {
+    float: right;
+}
+
+
+/* Card design */
+.wecreativez-card {
+    padding: 15px;
+    margin-bottom: 20px;
+}
+.wecreativez-card.filled {
+    background: #fff;
+}
+
+/* Flex Grid */
+.flex-grid {
+    display: flex;
+    justify-content: space-between;
+}
+.flex-grid-1 .col {
+    width: calc( 100% );
+}
+.flex-grid-2 .col {
+    width: calc( 50% - 15px );
+}
+.flex-grid-3 .col {
+    width: calc( 33.3% - 15px );
+}
+.flex-grid-4 .col {
+    width: calc( 25% - 15px );
+}
+
+@media ( max-width: 768px ) {
+
+    .flex-grid {
+        display: block;
+    }
+    .flex-grid-1 .col,
+    .flex-grid-2 .col,
+    .flex-grid-3 .col,
+    .flex-grid-4 .col {
+        width: 100%;
+    }
+
+}
+
+
+/* WeCreativez Activation Form */
+.wecreativez-activation-form {
+    text-align: center;
+    width: 500px;
+    max-width: 98%;
+    margin: 10% auto 0 auto;
+}
+.wecreativez-activation-form h2 {
+    font-size: 30px;
+}
+.wecreativez-activation-form p.message {
+    border: 1px dashed #ccc;
+    padding: 15px;
+    font-size: 15px;
+    font-weight: 700;
+}

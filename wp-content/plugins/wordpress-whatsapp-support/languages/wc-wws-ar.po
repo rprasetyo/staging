@@ -1,0 +1,1361 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WeCreativez WhatsApp Support\n"
+"POT-Creation-Date: 2019-08-10 16:41+0530\n"
+"PO-Revision-Date: 2019-08-10 16:43+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wordpress-whatsapp-support.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/classes/admin/class-wws-admin-menu.php:29
+#: includes/classes/admin/class-wws-admin-menu.php:30
+#: includes/classes/admin/class-wws-admin-menu.php:50
+#: includes/classes/admin/class-wws-admin-menu.php:51
+msgid "WhatsApp Support"
+msgstr "WhatsApp Support"
+
+#: includes/classes/admin/class-wws-admin-menu.php:40
+#: includes/classes/admin/class-wws-admin-menu.php:41
+#: includes/classes/admin/class-wws-admin-menu.php:88
+#: includes/classes/admin/class-wws-admin-menu.php:89
+#: views/admin/admin-setting-page.php:67
+msgid "Plugin Support"
+msgstr "دعم البرنامج المساعد"
+
+#: includes/classes/admin/class-wws-admin-menu.php:61
+#: includes/classes/admin/class-wws-admin-menu.php:62
+msgid "Analytics"
+msgstr "تحليلات"
+
+#: includes/classes/admin/class-wws-admin-menu.php:70
+#: includes/classes/admin/class-wws-admin-menu.php:71
+msgid "FB & GA Analytics"
+msgstr "تحليلات FB & GA"
+
+#: includes/classes/admin/class-wws-admin-menu.php:79
+#: includes/classes/admin/class-wws-admin-menu.php:80
+#: views/admin/admin-gdpr-setting-page.php:3
+msgid "GDPR Setting"
+msgstr "إعداد الناتج القومي الإجمالي"
+
+#: includes/classes/admin/class-wws-admin-notifications.php:31
+msgid "Settings saved."
+msgstr "الإعدادات المحفوظة."
+
+#: includes/classes/admin/class-wws-admin-notifications.php:43
+#, php-format
+msgid ""
+"Settings saved. If you changed the layout then please go to <a href=\"%s"
+"\">Manage Support Persons</a> to add or modify the support persons."
+msgstr ""
+"تم حفظ الإعدادات. إذا قمت بتغيير التنسيق ، فالرجاء الانتقال إلى <a href=\"%s"
+"\"> إدارة الأشخاص الداعمين </a> لإضافة أو تعديل الأشخاص الداعمين."
+
+#: includes/classes/admin/class-wws-admin-notifications.php:55
+msgid "Report generated. Please click on Download Report button."
+msgstr "تقرير ولدت. الرجاء الضغط على زر تنزيل التقرير."
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:27
+msgid "WhatsApp Support Button"
+msgstr "زر دعم واتسآب"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:30
+msgid "Content"
+msgstr "يحتوى"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:37
+#: views/admin/admin-button-generator.php:17
+#: views/admin/admin-qr-generator.php:6
+msgid "Support Number"
+msgstr "رقم الدعم"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:39
+msgid "911234567890"
+msgstr "911234567890"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:40
+msgid ""
+"Enter mobile phone number with the international country code, without '+' "
+"character."
+msgstr "أدخل رقم الهاتف المحمول مع رمز البلد الدولي ، بدون حرف '+'."
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:46
+#: views/admin/admin-button-generator.php:28
+msgid "Button Text"
+msgstr "زر كتابة"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:48
+msgid "Contact Us"
+msgstr "اتصل بنا"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:54
+#: views/admin/admin-product-query.php:37
+msgid "Button Color"
+msgstr "لون الزر"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:62
+#: views/admin/admin-button-generator.php:42
+#: views/admin/admin-product-query.php:47
+msgid "Button Text Color"
+msgstr "زر لون النص"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:68
+#: views/admin/admin-button-generator.php:53
+msgid "Button Bold Text"
+msgstr "زر النص الغامق"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:71
+#: includes/classes/admin/class-wws-admin-visual-composer.php:105
+#: includes/classes/admin/class-wws-admin-visual-composer.php:117
+#: includes/classes/admin/class-wws-admin-visual-composer.php:127
+#: views/admin/admin-basic-settings.php:60
+#: views/admin/admin-basic-settings.php:83
+#: views/admin/admin-basic-settings.php:106
+#: views/admin/admin-button-generator.php:55
+#: views/admin/admin-button-generator.php:78
+#: views/admin/admin-button-generator.php:100
+#: views/admin/admin-button-generator.php:109
+msgid "No"
+msgstr "لا"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:72
+#: includes/classes/admin/class-wws-admin-visual-composer.php:106
+#: includes/classes/admin/class-wws-admin-visual-composer.php:116
+#: includes/classes/admin/class-wws-admin-visual-composer.php:126
+#: views/admin/admin-basic-settings.php:59
+#: views/admin/admin-basic-settings.php:82
+#: views/admin/admin-basic-settings.php:105
+#: views/admin/admin-button-generator.php:56
+#: views/admin/admin-button-generator.php:79
+#: views/admin/admin-button-generator.php:99
+#: views/admin/admin-button-generator.php:108
+msgid "Yes"
+msgstr "نعم فعلا"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:78
+#: views/admin/admin-button-generator.php:62
+msgid "Button Font Style"
+msgstr "نمط الخط زر"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:81
+#: views/admin/admin-button-generator.php:64
+msgid "Theme Default"
+msgstr "الموضوع الافتراضي"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:82
+msgid "Lobster"
+msgstr "Lobster"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:83
+msgid "Satisfy"
+msgstr "Satisfy"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:84
+msgid "Bree Serif"
+msgstr "Bree Serif"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:85
+msgid "Oswald"
+msgstr "Oswald"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:86
+msgid "Ubuntu"
+msgstr "Ubuntu"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:87
+msgid "Dancing Script"
+msgstr "Dancing Script"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:94
+#: views/admin/admin-button-generator.php:87
+#: views/admin/admin-link-generator.php:28
+msgid "Pre Populate Message"
+msgstr "قبل ملء الرسالة"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:96
+msgid "Hello..."
+msgstr "مرحبا..."
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:97
+#: views/admin/admin-button-generator.php:89
+msgid "This is what you will receive when user sent message first time."
+msgstr "هذا هو ما ستتلقاه عندما يرسل المستخدم رسالة لأول مرة."
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:102
+#: views/admin/admin-button-generator.php:76
+msgid "Full Width Button"
+msgstr "زر العرض الكامل"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:108
+msgid "This will expand button to full width."
+msgstr "سيؤدي ذلك إلى توسيع الزر إلى العرض الكامل."
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:113
+#: views/admin/admin-basic-settings.php:77
+msgid "Display On Mobile"
+msgstr "عرض على الجوال"
+
+#: includes/classes/admin/class-wws-admin-visual-composer.php:123
+#: views/admin/admin-basic-settings.php:54
+#: views/admin/admin-button-generator.php:106
+msgid "Display On Desktop"
+msgstr "عرض على سطح المكتب"
+
+#: includes/classes/admin/class-wws-plugin-activation.php:35
+msgid "Activate Plugin"
+msgstr "تفعيل البرنامج المساعد"
+
+#: includes/classes/admin/class-wws-plugin-activation.php:36
+msgid ""
+"Please enter your purchase code. Purchasing plugin license also grants access "
+"to premium support. <br>Use one license per domain please!"
+msgstr ""
+"الرجاء إدخال رمز الشراء الخاص بك. شراء ترخيص البرنامج المساعد يمنح أيضا "
+"الوصول إلى دعم قسط. <br> استخدام ترخيص واحد لكل مجال من فضلك!"
+
+#: includes/classes/admin/class-wws-plugin-activation.php:40
+msgid "Enter Envato Purchase Code"
+msgstr "أدخل Envato رمز الشراء"
+
+#: includes/classes/admin/class-wws-plugin-activation.php:43
+msgid "Activate"
+msgstr "تفعيل"
+
+#: includes/classes/admin/class-wws-plugin-activation.php:45
+msgid "Deactivate"
+msgstr "عطل"
+
+#: includes/classes/admin/class-wws-plugin-activation.php:55
+#, php-format
+msgid "<a href=\"%s\" target=\"_blank\">Where is my purchase code?</a>"
+msgstr "<a href=\"%s\" target=\"_blank\"> أين هو رمز الشراء الخاص بي؟ </a>"
+
+#: includes/classes/admin/class-wws-plugin-activation.php:57
+#, php-format
+msgid "<a href=\"%s\">Need our help?</a>"
+msgstr "<a href=\"%s\"> هل تحتاج إلى مساعدتنا؟ </a>"
+
+#: includes/classes/admin/class-wws-plugin-activation.php:102
+msgid "Invalid Purchase Code"
+msgstr "رمز الشراء غير صالح"
+
+#: includes/classes/admin/class-wws-plugin-activation.php:109
+msgid "Your key is blocked. Please contact us."
+msgstr "المفتاح الخاص بك محظور. الرجاء التواصل معنا."
+
+#: includes/classes/admin/class-wws-plugin-activation.php:115
+#, php-format
+msgid "Error Code: %s. Please contact us."
+msgstr "رمز الخطأ: %s. الرجاء التواصل معنا."
+
+#: includes/classes/admin/class-wws-plugin-activation.php:124
+msgid "Server error. Please contact us."
+msgstr "خطأ في الخادم. الرجاء التواصل معنا."
+
+#: plugin-core/classes/wc-field.php:237
+msgid "Upload Image"
+msgstr "تحميل الصور"
+
+#: views/admin/admin-analytics-page.php:5
+msgid "WeCreativez WhatsApp Support - Analytics"
+msgstr "WeCreativez دعم ال WhatsApp - تحليلات"
+
+#: views/admin/admin-analytics-page.php:11
+msgid "Total Clicks Analytics"
+msgstr "Total Clicks Analytics"
+
+#: views/admin/admin-analytics-page.php:17
+msgid "Total Clicks"
+msgstr "مجموع النقرات"
+
+#: views/admin/admin-analytics-page.php:23
+msgid "Total Clicks By Desktop/ Laptop"
+msgstr "مجموع النقرات حسب سطح المكتب / أجهزة الكمبيوتر المحمول"
+
+#: views/admin/admin-analytics-page.php:29
+msgid "Total Clicks By Mobile"
+msgstr "Total Clicks By Mobile"
+
+#: views/admin/admin-analytics-page.php:36
+msgid "Complete Analytics"
+msgstr "تحليلات كاملة"
+
+#: views/admin/admin-analytics-page.php:42
+#: views/admin/admin-analytics-page.php:82
+msgid "Visitors IP"
+msgstr "الزوار IP"
+
+#: views/admin/admin-analytics-page.php:43
+#: views/admin/admin-analytics-page.php:83
+msgid "Number"
+msgstr "رقم"
+
+#: views/admin/admin-analytics-page.php:44
+#: views/admin/admin-analytics-page.php:84
+msgid "Message"
+msgstr "رسالة"
+
+#: views/admin/admin-analytics-page.php:45
+#: views/admin/admin-analytics-page.php:85
+msgid "Referral"
+msgstr "إحالة"
+
+#: views/admin/admin-analytics-page.php:46
+#: views/admin/admin-analytics-page.php:86
+msgid "Device Type"
+msgstr "نوع الجهاز"
+
+#: views/admin/admin-analytics-page.php:47
+#: views/admin/admin-analytics-page.php:87
+msgid "OS"
+msgstr "OS"
+
+#: views/admin/admin-analytics-page.php:48
+#: views/admin/admin-analytics-page.php:88
+msgid "Browser"
+msgstr "المتصفح"
+
+#: views/admin/admin-analytics-page.php:49
+#: views/admin/admin-analytics-page.php:89
+msgid "Date"
+msgstr "تاريخ"
+
+#: views/admin/admin-analytics-page.php:50
+#: views/admin/admin-analytics-page.php:90
+msgid "Action"
+msgstr "عمل"
+
+#: views/admin/admin-analytics-page.php:99
+msgid "Are you sure?"
+msgstr "هل أنت واثق؟"
+
+#: views/admin/admin-analytics-page.php:100
+msgid "Delete Complete Analytics"
+msgstr "حذف كامل التحليلات"
+
+#: views/admin/admin-analytics-page.php:109
+msgid "<strong>N/A</strong> means not applicable for the selected layout."
+msgstr "<strong> N/A </strong> لا يعني أنه لا ينطبق على التخطيط المحدد."
+
+#: views/admin/admin-appearance.php:10
+msgid "Select Layout"
+msgstr "حدد التنسيق"
+
+#: views/admin/admin-appearance.php:11
+msgid "Select your layout."
+msgstr "حدد التصميم الخاص بك."
+
+#: views/admin/admin-appearance.php:69
+msgid "Layout Background Color"
+msgstr "تخطيط خلفية اللون"
+
+#: views/admin/admin-appearance.php:72
+msgid "Set popup layout background color."
+msgstr "تعيين لون خلفية المخطط المنبثق."
+
+#: views/admin/admin-appearance.php:79
+msgid "Layout Text Color"
+msgstr "تخطيط لون النص"
+
+#: views/admin/admin-appearance.php:82
+msgid "Set popup layout text color."
+msgstr "تعيين لون نص التنسيق المنبثق."
+
+#: views/admin/admin-appearance.php:89
+msgid "Enable Layout Gradient"
+msgstr "تمكين تخطيط التدرج"
+
+#: views/admin/admin-appearance.php:92 views/admin/admin-appearance.php:129
+#: views/admin/admin-basic-settings.php:121
+#: views/admin/admin-developer-settingspage.php:17
+#: views/admin/admin-developer-settingspage.php:28
+#: views/admin/admin-fb-ga-analytics-page.php:25
+#: views/admin/admin-fb-ga-analytics-page.php:72
+#: views/admin/admin-gdpr-setting-page.php:23
+#: views/admin/admin-product-query.php:15
+msgid "Enable/ Disable"
+msgstr "مفعل وغير مفعل"
+
+#: views/admin/admin-appearance.php:93
+msgid "Enable/ Disable popup background gradient."
+msgstr "تمكين / تعطيل تدرج خلفية النافذة المنبثقة."
+
+#: views/admin/admin-appearance.php:105
+msgid "WhatsApp Support Trigger Button"
+msgstr "WhatsApp Support Trigger Button"
+
+#: views/admin/admin-appearance.php:116
+msgid "Trigger Button Text"
+msgstr "زر زر الزناد"
+
+#: views/admin/admin-appearance.php:119
+msgid "If you leave it blank than, trigger button shown as only icon."
+msgstr "إذا تركته فارغًا ، فسيظهر زر الزناد كرمز فقط."
+
+#: views/admin/admin-appearance.php:126
+msgid "Show Only Icon on Mobile"
+msgstr "إظهار فقط أيقونة على الجوال"
+
+#: views/admin/admin-appearance.php:130
+msgid ""
+"Enable this option if you what to display an icon instead of text button on "
+"mobile."
+msgstr ""
+"قم بتمكين هذا الخيار إذا كنت تريد عرض رمز بدلاً من زر النص على الهاتف المحمول."
+
+#: views/admin/admin-appearance.php:142
+msgid "WhatsApp Support Text Settings"
+msgstr "إعدادات دعم WhatsApp النص"
+
+#: views/admin/admin-appearance.php:153 views/admin/admin-appearance.php:156
+msgid "About Support."
+msgstr "حول الدعم."
+
+#: views/admin/admin-appearance.php:163
+msgid "Welcome Messages"
+msgstr "رسائل الترحيب"
+
+#: views/admin/admin-appearance.php:166
+msgid "Welcome message from Support. Sometime this can be use as pre message."
+msgstr "رسالة ترحيب من الدعم. في وقت ما يمكن استخدام هذا كرسالة مسبقة."
+
+#: views/admin/admin-appearance.php:173
+msgid "Input Placeholder Text"
+msgstr "نص العنصر النائب المدخلات"
+
+#: views/admin/admin-appearance.php:176
+msgid "Input placeholder."
+msgstr "عنصر نائب الإدخال."
+
+#: views/admin/admin-appearance.php:183
+msgid "Number Placeholder Text"
+msgstr "رقم عنصر نائب النص"
+
+#: views/admin/admin-appearance.php:186
+msgid "Enter the placeholder text for asking WhatsApp number from visitors."
+msgstr "أدخل نص العنصر النائب لطلب رقم WhatsApp من الزائرين."
+
+#: views/admin/admin-appearance.php:193
+msgid "Predefined Text"
+msgstr "النص المحدد مسبقا"
+
+#: views/admin/admin-appearance.php:196
+#: views/admin/multiperson-support/admin-add-multiperson-support.php:52
+#: views/admin/multiperson-support/admin-edit-multiperson-support.php:59
+#, php-format
+msgid ""
+"%s to display current page title in chat.<br>%s to display current page URL "
+"in chat.<br>%s to break the line into a new line."
+msgstr ""
+"%s لعرض عنوان الصفحة الحالي في الدردشة. <br>%s لعرض عنوان URL الحالي للصفحة "
+"في الدردشة. <br>%s لتقسيم السطر إلى سطر جديد."
+
+#: views/admin/admin-appearance.php:197
+msgid ""
+"This will automatically append the following options along with user text."
+msgstr "سيؤدي ذلك تلقائيًا إلى إضافة الخيارات التالية إلى جانب نص المستخدم."
+
+#: views/admin/admin-appearance.php:207 views/admin/admin-basic-settings.php:263
+#: views/admin/admin-developer-settingspage.php:39
+#: views/admin/admin-fb-ga-analytics-page.php:113
+#: views/admin/admin-gdpr-setting-page.php:61
+#: views/admin/admin-manage-support-persons.php:123
+#: views/admin/admin-product-query.php:170
+#: views/admin/multiperson-support/admin-add-multiperson-support.php:121
+#: views/admin/multiperson-support/admin-edit-multiperson-support.php:128
+msgid "Save Changes"
+msgstr "حفظ التغييرات"
+
+#: views/admin/admin-basic-settings.php:12
+msgid "X-axis Offset"
+msgstr "إزاحة المحور السيني"
+
+#: views/admin/admin-basic-settings.php:19
+#: views/admin/admin-basic-settings.php:34
+msgid "In px ( pixels ) only. Default 12px."
+msgstr "في بكسل (بكسل) فقط. الافتراضي 12px."
+
+#: views/admin/admin-basic-settings.php:20
+msgid "Enter the value of x-axis ( horizontal ) widget spacing."
+msgstr "أدخل قيمة تباعد عنصر واجهة المستخدم (المحور الأفقي)."
+
+#: views/admin/admin-basic-settings.php:27
+msgid "Y-axis Offset"
+msgstr "إزاحة المحور ص"
+
+#: views/admin/admin-basic-settings.php:35
+msgid "Enter the value of y-axis ( vertical ) widget spacing."
+msgstr "أدخل قيمة تباعد عنصر واجهة المستخدم (المحور الرأسي)."
+
+#: views/admin/admin-basic-settings.php:55
+msgid "Display on desktop/laptop"
+msgstr "العرض على سطح المكتب / الكمبيوتر المحمول"
+
+#: views/admin/admin-basic-settings.php:63
+#: views/admin/admin-basic-settings.php:86
+msgid "Top Left"
+msgstr "أعلى اليسار"
+
+#: views/admin/admin-basic-settings.php:64
+#: views/admin/admin-basic-settings.php:87
+msgid "Top Center"
+msgstr "مركز أعلى"
+
+#: views/admin/admin-basic-settings.php:65
+#: views/admin/admin-basic-settings.php:88
+msgid "Top Right"
+msgstr "فوق على اليمين"
+
+#: views/admin/admin-basic-settings.php:66
+#: views/admin/admin-basic-settings.php:89
+msgid "Bottom Left"
+msgstr "أسفل اليسار"
+
+#: views/admin/admin-basic-settings.php:67
+#: views/admin/admin-basic-settings.php:90
+msgid "Bottom Center"
+msgstr "مركز القاع"
+
+#: views/admin/admin-basic-settings.php:68
+#: views/admin/admin-basic-settings.php:91
+msgid "Bottom Right"
+msgstr "أسفل اليمين"
+
+#: views/admin/admin-basic-settings.php:78
+msgid "Display on mobile devices"
+msgstr "العرض على أجهزة الجوال"
+
+#: views/admin/admin-basic-settings.php:100
+msgid "Auto Popup"
+msgstr "المنبثقة التلقائية"
+
+#: views/admin/admin-basic-settings.php:101
+msgid "Enter the popup auto display time in seconds"
+msgstr "أدخل وقت العرض التلقائي المنبثق بالثواني"
+
+#: views/admin/admin-basic-settings.php:118
+msgid "Enable RTL"
+msgstr "تمكين RTL"
+
+#: views/admin/admin-basic-settings.php:122
+msgid ""
+"You can enable RTL ( Right to Left ) if your website has language like "
+"Arabic, Persian and Hebrew."
+msgstr ""
+"يمكنك تمكين RTL (من اليمين إلى اليسار) إذا كان موقعك الإلكتروني يحتوي على لغة "
+"مثل العربية والفارسية والعبرية."
+
+#: views/admin/admin-basic-settings.php:129
+msgid "Scroll Length"
+msgstr "طول التمرير"
+
+#: views/admin/admin-basic-settings.php:136
+msgid "Leave blank for display every time."
+msgstr "اتركه فارغًا للعرض في كل مرة."
+
+#: views/admin/admin-basic-settings.php:137
+msgid "Display button when scroll length matched with above value."
+msgstr "زر العرض عندما يتطابق طول التمرير مع القيمة أعلاه."
+
+#: views/admin/admin-basic-settings.php:146
+msgid "Filter By Page"
+msgstr "تصفية حسب الصفحة"
+
+#: views/admin/admin-basic-settings.php:151
+msgid "Everwhere"
+msgstr "في كل مكان"
+
+#: views/admin/admin-basic-settings.php:156
+msgid "Front Page"
+msgstr "الصفحة الأمامية"
+
+#: views/admin/admin-basic-settings.php:159
+msgid "Include popup on Pages"
+msgstr "تضمين نافذة منبثقة في الصفحات"
+
+#: views/admin/admin-basic-settings.php:167
+msgid "Select pages, where you want to add WhatsApp Support."
+msgstr "حدد الصفحات ، حيث تريد إضافة دعم WhatsApp."
+
+#: views/admin/admin-basic-settings.php:168
+msgid "Exclude popup on Pages"
+msgstr "استبعاد النوافذ المنبثقة في الصفحات"
+
+#: views/admin/admin-basic-settings.php:176
+msgid "Select pages, where you not want to add WhatsApp Support."
+msgstr "حدد الصفحات ، حيث لا تريد إضافة دعم WhatsApp."
+
+#: views/admin/admin-basic-settings.php:185
+#: views/admin/multiperson-support/admin-add-multiperson-support.php:63
+#: views/admin/multiperson-support/admin-edit-multiperson-support.php:70
+msgid "Schedule"
+msgstr "جدول"
+
+#: views/admin/admin-basic-settings.php:191
+#: views/admin/multiperson-support/admin-add-multiperson-support.php:102
+#: views/admin/multiperson-support/admin-edit-multiperson-support.php:109
+msgid "Monday"
+msgstr "الإثنين"
+
+#: views/admin/admin-basic-settings.php:197
+#: views/admin/multiperson-support/admin-add-multiperson-support.php:103
+#: views/admin/multiperson-support/admin-edit-multiperson-support.php:110
+msgid "Tuesday"
+msgstr "الثلاثاء"
+
+#: views/admin/admin-basic-settings.php:203
+#: views/admin/multiperson-support/admin-add-multiperson-support.php:104
+#: views/admin/multiperson-support/admin-edit-multiperson-support.php:111
+msgid "Wednesday"
+msgstr "الأربعاء"
+
+#: views/admin/admin-basic-settings.php:209
+#: views/admin/multiperson-support/admin-add-multiperson-support.php:105
+#: views/admin/multiperson-support/admin-edit-multiperson-support.php:112
+msgid "Thursday"
+msgstr "الخميس"
+
+#: views/admin/admin-basic-settings.php:215
+#: views/admin/multiperson-support/admin-add-multiperson-support.php:106
+#: views/admin/multiperson-support/admin-edit-multiperson-support.php:113
+msgid "Friday"
+msgstr "يوم الجمعة"
+
+#: views/admin/admin-basic-settings.php:221
+#: views/admin/multiperson-support/admin-add-multiperson-support.php:107
+#: views/admin/multiperson-support/admin-edit-multiperson-support.php:114
+msgid "Saturday"
+msgstr "يوم السبت"
+
+#: views/admin/admin-basic-settings.php:227
+#: views/admin/multiperson-support/admin-add-multiperson-support.php:108
+#: views/admin/multiperson-support/admin-edit-multiperson-support.php:115
+msgid "Sunday"
+msgstr "الأحد"
+
+#: views/admin/admin-basic-settings.php:233
+msgid "Schedule by days to show WhatsApp Support Popup. Time format HH:MM:SS"
+msgstr "جدولة حسب الأيام لعرض WhatsApp Support Popup. تنسيق الوقت HH: MM: SS"
+
+#: views/admin/admin-basic-settings.php:236
+#, php-format
+msgid "Your selected time zone is %s"
+msgstr "منطقتك الزمنية المحددة هي %s"
+
+#: views/admin/admin-basic-settings.php:247
+msgid "Custom   CSS"
+msgstr "لغة تنسيق ويب حسب الطلب"
+
+#: views/admin/admin-basic-settings.php:248
+msgid "Add your custom CSS here"
+msgstr "أضف CSS المخصص الخاص بك هنا"
+
+#: views/admin/admin-basic-settings.php:261
+msgid "Developer settings"
+msgstr "إعدادات المطور"
+
+#: views/admin/admin-button-generator.php:9
+msgid "Button Type"
+msgstr "نوع الزر"
+
+#: views/admin/admin-button-generator.php:11
+msgid "Support Button"
+msgstr "زر الدعم"
+
+#: views/admin/admin-button-generator.php:12
+msgid "Group Invitation Button"
+msgstr "زر دعوة المجموعة"
+
+#: views/admin/admin-button-generator.php:19
+#: views/admin/admin-link-generator.php:19 views/admin/admin-qr-generator.php:8
+msgid ""
+"Enter mobile phone number with the international country code, without \"+\" "
+"character"
+msgstr "أدخل رقم الهاتف المحمول مع رمز البلد الدولي ، بدون حرف \"+\""
+
+#: views/admin/admin-button-generator.php:23
+#: views/admin/admin-link-generator.php:23
+msgid "Group Chat ID"
+msgstr "معرف مجموعة الدردشة"
+
+#: views/admin/admin-button-generator.php:36
+msgid "Button Background Color"
+msgstr "لون خلفية الزر"
+
+#: views/admin/admin-button-generator.php:97
+msgid "Display On Mobile  "
+msgstr "عرض على الجوال "
+
+#: views/admin/admin-button-generator.php:122
+#: views/admin/admin-qr-generator.php:27
+msgid "Visual Representation"
+msgstr "التمثيل البصري"
+
+#: views/admin/admin-button-generator.php:128
+#: views/admin/admin-qr-generator.php:33
+msgid "Generated Shortcode"
+msgstr "إنشاء رمز قصير"
+
+#: views/admin/admin-button-generator.php:130
+#: views/admin/admin-qr-generator.php:35
+msgid "Copy shortcode and paste wherever you want. Have fun! :)"
+msgstr "انسخ الرمز القصير والصقه حيثما تريد. إستمتع! :)"
+
+#: views/admin/admin-button-generator.php:134
+msgid "Generated HTML"
+msgstr "ولدت HTML"
+
+#: views/admin/admin-button-generator.php:136
+msgid "Copy HTML and paste wherever you want. Have fun! :)"
+msgstr "انسخ HTML والصق حيثما تريد. إستمتع! :)"
+
+#: views/admin/admin-button-generator.php:139
+#: views/admin/admin-link-generator.php:44
+#: views/admin/admin-plugin-support.php:40 views/admin/admin-qr-generator.php:38
+msgid "Generate Now"
+msgstr "توليد الآن"
+
+#: views/admin/admin-developer-settingspage.php:3
+msgid "Developer Settings"
+msgstr "إعدادات المطور"
+
+#: views/admin/admin-developer-settingspage.php:14
+msgid "Developer"
+msgstr "مطور"
+
+#: views/admin/admin-developer-settingspage.php:18
+msgid "Please do not turn on without our recommendation."
+msgstr "يرجى عدم تشغيل دون توصيتنا."
+
+#: views/admin/admin-developer-settingspage.php:25
+msgid "Delete Plugin Setting"
+msgstr "حذف إعداد البرنامج المساعد"
+
+#: views/admin/admin-developer-settingspage.php:29
+msgid ""
+"If you want to delete plugin settings stored in database then enable this "
+"option and then click on the save changes button. Now delete the plugin from "
+"your plugins page."
+msgstr ""
+"إذا كنت تريد حذف إعدادات البرنامج المساعد المخزنة في قاعدة البيانات ، فقم "
+"بتمكين هذا الخيار ثم انقر فوق زر حفظ التغييرات. الآن احذف المكون الإضافي من "
+"صفحة الإضافات الخاصة بك."
+
+#: views/admin/admin-fb-ga-analytics-page.php:3
+msgid "Facebook and Google Analytics"
+msgstr "Facebook و Google Analytics"
+
+#: views/admin/admin-fb-ga-analytics-page.php:11
+msgid "Facebook Pixel Analytics"
+msgstr "فيسبوك بكسل تحليلات"
+
+#: views/admin/admin-fb-ga-analytics-page.php:22
+msgid "Facebook Click Tracking"
+msgstr "فيسبوك انقر تتبعq"
+
+#: views/admin/admin-fb-ga-analytics-page.php:26
+msgid "You can enable or disable facebook pixel click tracking."
+msgstr "يمكنك تمكين أو تعطيل تعقب نقرات facebook facebook."
+
+#: views/admin/admin-fb-ga-analytics-page.php:33
+msgid "FB Event"
+msgstr "حدث FB"
+
+#: views/admin/admin-fb-ga-analytics-page.php:36
+msgid "Enter the name of custom event to track on Facebook pixel."
+msgstr "أدخل اسم الحدث المخصص للتتبع على Facebook pixel."
+
+#: views/admin/admin-fb-ga-analytics-page.php:43
+msgid "FB Event Label"
+msgstr "تسمية الحدث FB"
+
+#: views/admin/admin-fb-ga-analytics-page.php:46
+msgid "Enter the label of custom event to track on Facebook pixel."
+msgstr "أدخل تسمية الحدث المخصص للتتبع على Facebook pixel."
+
+#: views/admin/admin-fb-ga-analytics-page.php:58
+msgid "Google Click Analytics"
+msgstr "جوجل انقر فوق تحليلات"
+
+#: views/admin/admin-fb-ga-analytics-page.php:69
+msgid "Google Event Tracking"
+msgstr "جوجل تتبع الأحداث"
+
+#: views/admin/admin-fb-ga-analytics-page.php:73
+msgid "You can enable or disable google event click tracking."
+msgstr "يمكنك تمكين أو تعطيل تتبع نقرات حدث جوجل."
+
+#: views/admin/admin-fb-ga-analytics-page.php:80
+msgid "GA Event"
+msgstr "حدث GA"
+
+#: views/admin/admin-fb-ga-analytics-page.php:83
+msgid "Enter the name of custom the event to track on Google Analytics."
+msgstr "أدخل اسم الحدث المخصص للتتبع على Google Analytics."
+
+#: views/admin/admin-fb-ga-analytics-page.php:90
+msgid "GA Event Category"
+msgstr "GA فئة الحدث"
+
+#: views/admin/admin-fb-ga-analytics-page.php:93
+msgid "Enter the name of the event category."
+msgstr "أدخل اسم فئة الحدث."
+
+#: views/admin/admin-fb-ga-analytics-page.php:100
+msgid "GA Event Label"
+msgstr "GA حدث التسمية"
+
+#: views/admin/admin-fb-ga-analytics-page.php:103
+msgid "Enter the label of the event."
+msgstr "أدخل تسمية الحدث."
+
+#: views/admin/admin-gdpr-setting-page.php:20
+msgid "GDPR"
+msgstr "GDPR"
+
+#: views/admin/admin-gdpr-setting-page.php:24
+msgid "Enable/ Disable GDPR compliant."
+msgstr "تمكين / تعطيل متوافق مع الناتج المحلي الإجمالي."
+
+#: views/admin/admin-gdpr-setting-page.php:31
+msgid "GDPR Message"
+msgstr "رسالة GDPR"
+
+#: views/admin/admin-gdpr-setting-page.php:34
+#, php-format
+msgid "Use shortcode %s to add privacy page link."
+msgstr "استخدم shortcode %s لإضافة رابط صفحة الخصوصية."
+
+#: views/admin/admin-gdpr-setting-page.php:42
+msgid "Privacy page"
+msgstr "صفحة الخصوصية"
+
+#: views/admin/admin-gdpr-setting-page.php:43
+msgid "Select your privacy page."
+msgstr "حدد صفحة الخصوصية الخاصة بك."
+
+#: views/admin/admin-link-generator.php:9
+msgid "Link Type"
+msgstr "نوع الرابط"
+
+#: views/admin/admin-link-generator.php:11
+msgid "Chat Link"
+msgstr "رابط الدردشة"
+
+#: views/admin/admin-link-generator.php:12
+msgid "Group Invitation Link"
+msgstr "رابط دعوة المجموعة"
+
+#: views/admin/admin-link-generator.php:17
+msgid "WhatsApp Number"
+msgstr "رقم ال WhatsApp"
+
+#: views/admin/admin-link-generator.php:30
+msgid "Enter a message that you will receive when someone clicks on the link."
+msgstr "أدخل رسالة ستتلقاها عندما ينقر شخص ما على الرابط."
+
+#: views/admin/admin-link-generator.php:39
+msgid "Generated Link"
+msgstr "إنشاء رابط"
+
+#: views/admin/admin-link-generator.php:41
+msgid "Copy link and share. Have fun! :)"
+msgstr "نسخ الرابط ومشاركته. إستمتع! :)"
+
+#: views/admin/admin-manage-support-persons.php:12
+msgid "WhatsApp Single Person Support"
+msgstr "WhatsApp دعم شخص واحد"
+
+#: views/admin/admin-manage-support-persons.php:23
+#: views/admin/admin-product-query.php:67
+msgid "Support Contact Number"
+msgstr "رقم الاتصال بالدعم"
+
+#: views/admin/admin-manage-support-persons.php:26
+#: views/admin/admin-product-query.php:70
+msgid ""
+"Enter mobile phone number with the international country code, without + "
+"character. Example:  911234567890 for (+91) 1234567890"
+msgstr ""
+"أدخل رقم الهاتف المحمول مع رمز البلد الدولي ، بدون + حرف. مثال: 911234567890 "
+"لـ (+91) 1234567890"
+
+#: views/admin/admin-manage-support-persons.php:33
+#: views/admin/admin-product-query.php:98
+#: views/admin/multiperson-support/admin-add-multiperson-support.php:40
+#: views/admin/multiperson-support/admin-edit-multiperson-support.php:45
+msgid "Support Person Image"
+msgstr "دعم شخص صورة"
+
+#: views/admin/admin-manage-support-persons.php:37
+msgid "Upload support person image"
+msgstr "تحميل صورة شخص الدعم"
+
+#: views/admin/admin-manage-support-persons.php:56
+msgid "WhatsApp Group Settings"
+msgstr "إعدادات مجموعة ال WhatsApp"
+
+#: views/admin/admin-manage-support-persons.php:67
+msgid "Support Group ID"
+msgstr "معرف مجموعة الدعم"
+
+#: views/admin/admin-manage-support-persons.php:70
+msgid "Enter your WhatsApp group chat ID"
+msgstr "أدخل معرف دردشة مجموعة WhatsApp الخاص بك"
+
+#: views/admin/admin-manage-support-persons.php:89
+msgid "WhatsApp Multi Account Settings"
+msgstr "إعدادات حساب WhatsApp المتعددة"
+
+#: views/admin/admin-manage-support-persons.php:102
+msgid "Edit"
+msgstr "تصحيح"
+
+#: views/admin/admin-manage-support-persons.php:102
+msgid "Delete"
+msgstr "حذف"
+
+#: views/admin/admin-manage-support-persons.php:110
+#: views/admin/admin-manage-support-persons.php:113
+msgid "Add Support Person"
+msgstr "إضافة شخص الدعم"
+
+#: views/admin/admin-plugin-support.php:6
+msgid "Need Customization? Hire an Expert."
+msgstr "تحتاج التخصيص؟ استئجار خبير."
+
+#: views/admin/admin-plugin-support.php:7
+msgid ""
+"We know it’s not easy to find a reliable WordPress expert at a price you can "
+"afford. We have a hand-picked team of professional, reliable, experienced and "
+"FRIENDLY experts."
+msgstr ""
+"نعلم أنه ليس من السهل العثور على خبير موثوق به في WordPress بسعر لا تستطيع "
+"تحمله. لدينا فريق منتقى بعناية من الخبراء المحترفين والموثوقين وذوي الخبرة "
+"والأصدقاء."
+
+#: views/admin/admin-plugin-support.php:8
+msgid "Hire Now"
+msgstr "استئجار الآن"
+
+#: views/admin/admin-plugin-support.php:15
+msgid "Customer Support."
+msgstr "دعم العملاء."
+
+#: views/admin/admin-plugin-support.php:16
+msgid ""
+"If you need instant support then choose following options. Our support will "
+"reply as soon as possible after you send us a message."
+msgstr ""
+"إذا كنت بحاجة إلى دعم فوري ، فاختر الخيارات التالية. سيرد دعمنا في أسرع وقت "
+"ممكن بعد أن ترسل لنا رسالة."
+
+#: views/admin/admin-plugin-support.php:18
+msgid "Contact us via Envato"
+msgstr "اتصل بنا عبر Envato"
+
+#: views/admin/admin-plugin-support.php:35
+msgid "Share Debug Report With Our Support Team."
+msgstr "مشاركة تقرير تصحيح الأخطاء مع فريق الدعم الخاص بنا."
+
+#: views/admin/admin-plugin-support.php:36
+msgid ""
+"Generate, download, and share the debug report with our experts. Report "
+"contains site URL, WP version, list of activated plugins and plugin options "
+"setting."
+msgstr ""
+"قم بإنشاء وتنزيل ومشاركة تقرير التصحيح مع خبرائنا. يحتوي التقرير على عنوان "
+"URL الخاص بالموقع وإصدار WP وقائمة بالمكونات الإضافية المنشطة وإعداد خيارات "
+"المكون الإضافي."
+
+#: views/admin/admin-plugin-support.php:42
+msgid "Download Report"
+msgstr "تحميل التقرير"
+
+#: views/admin/admin-product-query.php:12
+msgid "Product Support Button"
+msgstr "زر دعم المنتج"
+
+#: views/admin/admin-product-query.php:16
+msgid ""
+"Enable / Disable product support button on WooCommerce single product page."
+msgstr "تمكين / تعطيل زر دعم المنتج على صفحة منتج واحد لـ WooCommerce."
+
+#: views/admin/admin-product-query.php:23
+msgid "Button Location"
+msgstr "موقع زر"
+
+#: views/admin/admin-product-query.php:27
+msgid "After Short Description"
+msgstr "بعد وصف قصير"
+
+#: views/admin/admin-product-query.php:28
+msgid "After Add to Cart Button"
+msgstr "بعد إضافة إلى عربة التسوق"
+
+#: views/admin/admin-product-query.php:30
+msgid "Choose the location of product query button."
+msgstr "اختر موقع زر استعلام المنتج."
+
+#: views/admin/admin-product-query.php:40
+msgid "Change button background color."
+msgstr "تغيير لون خلفية الزر."
+
+#: views/admin/admin-product-query.php:50
+msgid "Change button text color."
+msgstr "تغيير لون نص الزر."
+
+#: views/admin/admin-product-query.php:57
+msgid "Button Label"
+msgstr "تسمية زر"
+
+#: views/admin/admin-product-query.php:60
+msgid "Enter button label."
+msgstr "أدخل تسمية الزر."
+
+#: views/admin/admin-product-query.php:78
+#: views/admin/multiperson-support/admin-add-multiperson-support.php:22
+#: views/admin/multiperson-support/admin-edit-multiperson-support.php:25
+msgid "Support Person Name"
+msgstr "اسم الشخص الدعم"
+
+#: views/admin/admin-product-query.php:81
+msgid "Enter the name of support person."
+msgstr "أدخل اسم شخص الدعم."
+
+#: views/admin/admin-product-query.php:88
+#: views/admin/multiperson-support/admin-add-multiperson-support.php:31
+#: views/admin/multiperson-support/admin-edit-multiperson-support.php:35
+msgid "Support Person Title"
+msgstr "عنوان الشخص الدعم"
+
+#: views/admin/admin-product-query.php:91
+msgid "Enter the title / designation of support person."
+msgstr "أدخل عنوان / تعيين شخص الدعم."
+
+#: views/admin/admin-product-query.php:102
+msgid "Upload support person image."
+msgstr "تحميل صورة شخص الدعم."
+
+#: views/admin/admin-product-query.php:109
+msgid "Pre Populated Message"
+msgstr "قبل رسالة السكان"
+
+#: views/admin/admin-product-query.php:112
+#, php-format
+msgid "Use %s shortcode for product title and %s for product URL"
+msgstr "استخدم %s رمزًا قصيرًا لعنوان المنتج و %s لعنوان URL للمنتج"
+
+#: views/admin/admin-product-query.php:132
+msgid "Exclude Query Button"
+msgstr "استبعاد زر الاستعلام"
+
+#: views/admin/admin-product-query.php:133
+msgid "You can exclude or turn off WhatsApp product query button by products."
+msgstr "يمكنك استبعاد أو إيقاف تشغيل زر استعلام منتج WhatsApp حسب المنتجات."
+
+#: views/admin/admin-product-query.php:136
+msgid "Exclude by products"
+msgstr "استبعاد من المنتجات"
+
+#: views/admin/admin-product-query.php:151
+msgid "You can exclude or turn off WhatsApp product query button by categories."
+msgstr "يمكنك استبعاد أو إيقاف تشغيل زر استعلام منتج WhatsApp حسب الفئات."
+
+#: views/admin/admin-product-query.php:154
+msgid "Exclude by categories"
+msgstr "استبعاد حسب الفئات"
+
+#: views/admin/admin-qr-generator.php:12
+msgid "Enter Message"
+msgstr "أدخل رسالة"
+
+#: views/admin/admin-qr-generator.php:13 views/admin/admin-qr-generator.php:29
+msgid "Scan QR to talk us via WhatsApp"
+msgstr "مسح QR للتحدث معنا عبر WhatsApp"
+
+#: views/admin/admin-qr-generator.php:18
+msgid "QR Image Size"
+msgstr "حجم صورة QR"
+
+#: views/admin/admin-qr-generator.php:20
+msgid "Enter the QR image size in pixel."
+msgstr "أدخل حجم صورة QR بالبكسل."
+
+#: views/admin/admin-setting-page.php:2
+msgid "WordPress WhatsApp Support"
+msgstr "WordPress WhatsApp Support"
+
+#: views/admin/admin-setting-page.php:32
+msgid "Appearance"
+msgstr "مظهر خارجي"
+
+#: views/admin/admin-setting-page.php:37
+msgid "Basic Settings"
+msgstr "الإعدادات الأساسية"
+
+#: views/admin/admin-setting-page.php:42
+msgid "Manage Support Persons"
+msgstr "إدارة الدعم الأشخاص"
+
+#: views/admin/admin-setting-page.php:47
+msgid "Button Generator"
+msgstr "مولد زر"
+
+#: views/admin/admin-setting-page.php:52
+msgid "Link Generator"
+msgstr "رابط مولد"
+
+#: views/admin/admin-setting-page.php:57
+msgid "QR Generator"
+msgstr "رابط مولدمولد QR"
+
+#: views/admin/admin-setting-page.php:62
+msgid "Product Query"
+msgstr "استعلام عن المنتج"
+
+#: views/admin/analytics/admin-deep-analytics.php:8
+msgid "Country"
+msgstr "بلد"
+
+#: views/admin/analytics/admin-deep-analytics.php:12
+msgid "Region"
+msgstr "منطقة"
+
+#: views/admin/analytics/admin-deep-analytics.php:16
+msgid "City"
+msgstr "مدينة"
+
+#: views/admin/analytics/admin-deep-analytics.php:20
+msgid "ZIP Code"
+msgstr "الرمز البريدي"
+
+#: views/admin/analytics/admin-deep-analytics.php:29
+msgid "Timezone"
+msgstr "وحدة زمنية"
+
+#: views/admin/analytics/admin-deep-analytics.php:33
+msgid "Internet Service Provider"
+msgstr "مزود خدمة الإنترنت"
+
+#: views/admin/analytics/admin-deep-analytics.php:37
+msgid "Organization Name"
+msgstr "اسم المنظمة"
+
+#: views/admin/multiperson-support/admin-add-multiperson-support.php:12
+#: views/admin/multiperson-support/admin-edit-multiperson-support.php:14
+msgid "Support Person Contact"
+msgstr "دعم شخص الاتصال"
+
+#: views/admin/multiperson-support/admin-add-multiperson-support.php:15
+#: views/admin/multiperson-support/admin-edit-multiperson-support.php:18
+msgid ""
+"Enter mobile phone number with the international country code, without \"+\" "
+"character. Example:  911234567890 for (+91) 1234567890"
+msgstr ""
+"أدخل رقم الهاتف المحمول مع رمز البلد الدولي ، بدون حرف \"+\". مثال: "
+"911234567890 لـ (+91) 1234567890"
+
+#: views/admin/multiperson-support/admin-add-multiperson-support.php:33
+#: views/admin/multiperson-support/admin-edit-multiperson-support.php:38
+msgid "Enter support person title/designation."
+msgstr "أدخل عنوان / تعيين شخص الدعم."
+
+#: views/admin/multiperson-support/admin-add-multiperson-support.php:43
+#: views/admin/multiperson-support/admin-edit-multiperson-support.php:49
+msgid "Add support person image"
+msgstr "أضف صورة شخص الدعم"
+
+#: views/admin/multiperson-support/admin-add-multiperson-support.php:50
+#: views/admin/multiperson-support/admin-edit-multiperson-support.php:56
+msgid "Support Pre Message"
+msgstr "دعم قبل الرسالة"
+
+#: views/admin/multiperson-support/admin-add-multiperson-support.php:109
+#: views/admin/multiperson-support/admin-edit-multiperson-support.php:116
+msgid "Schedule by days to show contact person availablity. Time format HH:MM"
+msgstr "الجدول حسب الأيام لإظهار جهة الاتصال المتاحة. تنسيق الوقت HH: MM"
+
+#: views/admin/notifications/admin-review.php:2
+msgid "Leave A Review?"
+msgstr "ترك التعليق؟"
+
+#: views/admin/notifications/admin-review.php:8
+#, php-format
+msgid ""
+"We hope you've enjoyed using %s Would you consider leaving us a review on %s"
+msgstr "نأمل أن تكون قد استمتعت باستخدام %s هل تفكر في ترك تعليق لنا على %s"
+
+#: views/admin/notifications/admin-review.php:21
+msgid "Sure! I'd love to!"
+msgstr "بالتأكيد! أحب أن!"
+
+#: views/admin/notifications/admin-review.php:26
+msgid "I've already left a review"
+msgstr "لقد تركت بالفعل مراجعة"
+
+#: views/admin/notifications/admin-review.php:30
+msgid "Never show again"
+msgstr "لا تظهر مرة أخرى"
+
+#: views/wws-template-6.php:74
+msgid "Available"
+msgstr "متاح"
+
+#: views/wws-template-6.php:92
+msgid "Away"
+msgstr "بعيدا"
+
+#: wordpress-whatsapp-support.php:104
+msgid "Settings"
+msgstr "إعدادات GDPRالإعدادات"
+
+#. Plugin Name of the plugin/theme
+msgid "WeCreativez WhatsApp Support"
+msgstr "WeCreativez دعم ال WhatsApp"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wecreativez.com/"
+msgstr "http://wecreativez.com/"
+
+#. Description of the plugin/theme
+msgid ""
+"WordPress WhatsApp Support plugin provides better and easy way to communicate "
+"visitors and customers directly to your support person."
+msgstr ""
+"يوفر المكون الإضافي لدعم WordPress WhatsApp طريقة أفضل وأسهل لتوصيل الزوار "
+"والعملاء مباشرة إلى شخص الدعم الخاص بك."
+
+#. Author of the plugin/theme
+msgid "Sonu Kaushal"
+msgstr "Sonu Kaushal"
+
+#. Author URI of the plugin/theme
+msgid "http://sonukaushal.com/"
+msgstr "http://sonukaushal.com/"
+
+#~ msgid "Shortcode Generator"
+#~ msgstr "مولد رمز قصير"
+
+#~ msgid "WooCommerce not installed or maybe no activated."
+#~ msgstr "WooCommerce غير مثبت أو غير مفعل."
+
+#~ msgid "Report shared."
+#~ msgstr "تقرير مشترك."
+
+#~ msgid "GDPR settings saved."
+#~ msgstr "إعدادات GDPR المحفوظة."
+
+#~ msgid ""
+#~ "Enter your purchase code to get instant support and advance customer "
+#~ "service! %s"
+#~ msgstr ""
+#~ "أدخل رمز الشراء للحصول على الدعم الفوري وخدمة العملاء المتقدمة! %s الصورة"
+
+#~ msgid "Enter here"
+#~ msgstr "أدخل هنا"
+
+#~ msgid "Enter support person name."
+#~ msgstr "أدخل اسم شخص الدعم."
+
+#~ msgid "%s to display current page title in chat."
+#~ msgstr "%s لعرض عنوان الصفحة الحالي في الدردشة."
+
+#~ msgid "%s to display current page URL in chat."
+#~ msgstr "%s لعرض عنوان URL للصفحة الحالية في الدردشة."
+
+#~ msgid "%s to break the line into a new line."
+#~ msgstr "%s لتقسيم الخط إلى سطر جديد."
+
+#~ msgid "Add"
+#~ msgstr "إضافة"
+
+#~ msgid "Save"
+#~ msgstr "حفظ"
+
+#~ msgid "Plugin Activated"
+#~ msgstr "البرنامج المساعد المنشط"
+
+#~ msgid "Enter your Envato purchase code to activate"
+#~ msgstr "أدخل رمز شراء Envato الخاص بك للتنشيط"
+
+#~ msgid "Click on IP address to know more about the visitors"
+#~ msgstr "انقر على عنوان IP لمعرفة المزيد عن الزوار"
+
+#~ msgid "Enable GDPR"
+#~ msgstr "تمكين GDPR"
+
+#~ msgid "Copy and share the link"
+#~ msgstr "نسخ ومشاركة الرابط"
+
+#~ msgid "Designing"
+#~ msgstr "تصميم"
+
+#~ msgid "Add Support person image"
+#~ msgstr "أضف صورة شخص الدعم"
+
+#~ msgid "WeCreativez WhatsApp Support - Support"
+#~ msgstr "WeCreativez دعم ال WhatsApp - الدعم"
+
+#~ msgid "Plugin Registration"
+#~ msgstr "تسجيل البرنامج المساعد"
+
+#~ msgid "Plugin Not Activated"
+#~ msgstr "البرنامج المساعد غير نشط"
+
+#~ msgid "This is the address where we will contact you."
+#~ msgstr "هذا هو العنوان الذي سنتصل بك من خلاله."
+
+#~ msgid "Enable"
+#~ msgstr "مكن"
+
+#~ msgid "Enable Debugging"
+#~ msgstr "تمكين التصحيح"
+
+#~ msgid "HTML in"
+#~ msgstr "HTML في"
+
+#~ msgid "Fix Widget Shortcode"
+#~ msgstr "Fix Widget Shortcode"
+
+#~ msgid "Disable Auto Update"
+#~ msgstr "تعطيل التحديث التلقائي"
+
+#~ msgid "Display product share button on mobile."
+#~ msgstr "زر عرض المنتج على الجوّال."
+
+#~ msgid "Support Message"
+#~ msgstr "رسالة الدعم"
+
+#~ msgid "Enter the pre populate support message here."
+#~ msgstr "أدخل رسالة دعم النشر المسبق هنا."
+
+#~ msgid "Save Product Support"
+#~ msgstr "حفظ دعم المنتج"
+
+#~ msgid "WeCreativez WhatsApp Support - Shortcode Generator"
+#~ msgstr "WeCreativez دعم ال WhatsApp - مولد رمز قصير"
+
+#~ msgid "HTML Code"
+#~ msgstr "كود HTML"
+
+#~ msgid "WordPress"
+#~ msgstr "WordPress"
+
+#~ msgid "WooCommerce"
+#~ msgstr "WooCommerce"
